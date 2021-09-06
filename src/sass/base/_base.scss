@@ -1,0 +1,19 @@
+html {
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    @include font(5rem);
+    padding-top: 10rem;
+    color: $color-primary;
+    margin-top: 0;
+}
+
+.title {
+    color: $color-additional;
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 0;
+    padding: 10rem 0;
+}

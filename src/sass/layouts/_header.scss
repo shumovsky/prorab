@@ -1,0 +1,18 @@
+.header {
+    background: $color-background;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem 0;
+}
+
+.header__logo {
+    flex-basis: 33%;
+}
+
+.header__nav {
+    flex-basis: 33%;
+}

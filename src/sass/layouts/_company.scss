@@ -1,0 +1,16 @@
+.company {
+    background-color: $color-background;
+}
+
+.compani__info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    img {
+        max-width: 200px;
+    }
+}
+
+.compani_img {
+    flex-basis: 27%;
+}

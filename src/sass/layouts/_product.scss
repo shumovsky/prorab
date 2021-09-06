@@ -1,0 +1,9 @@
+.product {
+    padding-bottom: 10rem;
+}
+
+.product__card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

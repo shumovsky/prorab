@@ -1,0 +1,13 @@
+.header__nav_list {
+    display: flex;
+    justify-content: space-between;
+    @include font(2.2rem);
+    padding: 0;
+    a {
+        color: $color-link;
+        &:hover {
+            color: $color-link-active;
+            @extend %transition;
+        }
+    }
+}

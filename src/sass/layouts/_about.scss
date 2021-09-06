@@ -1,0 +1,8 @@
+.about {
+    background: $color-background;
+    padding-bottom: 10rem;
+}
+
+.about__text {
+    @include font(3rem, normal, 1)
+}

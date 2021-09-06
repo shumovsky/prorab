@@ -1,0 +1,28 @@
+.product__card_item {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 27%;
+    text-align: center;
+    box-shadow: 0px 4px 20px rgb(0 0 0 / 35%);
+    margin-bottom: 6rem;
+    border-radius: 3%;
+    img {
+        max-height: 20rem;
+        padding: 2rem;
+    }
+}
+
+.prodect__card_title {
+    @include font(2rem, normal);
+    text-transform: uppercase;
+}
+
+.product__card_info {
+    background-color: $color-background;
+    height: 100%;
+}
+
+.prodect__card_text {
+    @include font(1.7rem, 1, normal);
+    padding: 15px 25px;
+}

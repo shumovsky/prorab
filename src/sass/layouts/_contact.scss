@@ -1,0 +1,24 @@
+.contact {
+    background-image: url(./../img/fon-first-min.png);
+    background-size: cover;
+}
+
+.contact__text {
+    margin-bottom: 10rem;
+}
+
+.contact__subtitle {
+    @include font(3rem, 1.2);
+    color: $color-primary;
+}
+
+.contact__info {
+    padding-bottom: 12rem;
+    @include font(4rem, 2);
+    img {
+        padding-right: 2rem;
+    }
+    a {
+        color: $color-primary;
+    }
+}
