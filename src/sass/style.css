@@ -1,4 +1,4 @@
-.header__nav_list a:hover {
+.footer__button:hover, .header__nav_list a:hover {
   transition: all 0.3s ease-out;
 }
 
@@ -555,6 +555,82 @@ h3 {
 
 .compani_img {
   flex-basis: 27%;
+}
+
+.footer {
+  background: #173a56;
+  padding-bottom: 10rem;
+}
+
+.footer__title {
+  color: #d7d7d7;
+}
+
+.footer__wrapper {
+  display: flex;
+}
+
+.contact__us {
+  flex-basis: 70%;
+}
+
+.contact__us_form {
+  display: flex;
+  flex-direction: column;
+}
+.contact__us_form input {
+  background: #d7d7d7;
+  margin-bottom: 3rem;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  padding-left: 1.5rem;
+  border: none;
+  border-radius: 5px;
+  outline-color: navy;
+}
+.contact__us_form input::placeholder {
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+}
+
+.contact__us_text {
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  background: #d7d7d7;
+  margin-bottom: 5rem;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  padding: 1.5rem 1rem;
+}
+.contact__us_text::placeholder {
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+}
+
+.footer__button {
+  background: #d7d7d7;
+  color: #173a56;
+  border: transparent 1px;
+  border-radius: 5px;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  padding: 1rem;
+}
+.footer__button:hover {
+  cursor: pointer;
+  background: #173a56;
+  color: #d7d7d7;
+  border: 1px solid #ffeee1;
 }
 
 /*# sourceMappingURL=style.css.map */

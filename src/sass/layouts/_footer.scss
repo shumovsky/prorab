@@ -1,0 +1,61 @@
+    .footer {
+        background: $color-additional;
+        padding-bottom: 10rem;
+    }
+    
+    .footer__title {
+        color: $color-background;
+    }
+    
+    .footer__wrapper {
+        display: flex;
+    }
+    
+    .contact__us {
+        flex-basis: 70%;
+    }
+    
+    .contact__us_form {
+        display: flex;
+        flex-direction: column;
+        input {
+            background: $color-background;
+            margin-bottom: 3rem;
+            @include font(2.5rem, 1, normal);
+            padding-left: 1.5rem;
+            border: none;
+            border-radius: 5px;
+            outline-color: navy;
+            &::placeholder {
+                @include font(2rem, 1, normal);
+            }
+        }
+    }
+    
+    .contact__us_text {
+        border-radius: 5px;
+        margin-bottom: 1rem;
+        background: $color-background;
+        margin-bottom: 5rem;
+        @include font(2.5rem, 1, normal);
+        padding: 1.5rem 1rem;
+        &::placeholder {
+            @include font(2rem, 1, normal);
+        }
+    }
+    
+    .footer__button {
+        background: $color-background;
+        color: $color-additional;
+        border: transparent 1px;
+        border-radius: 5px;
+        @include font(2.5rem, 1, normal);
+        padding: 1rem;
+        &:hover {
+            cursor: pointer;
+            background: $color-additional;
+            color: $color-background;
+            border: 1px solid $color-primary;
+            @extend %transition;
+        }
+    }
