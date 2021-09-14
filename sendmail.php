@@ -1,18 +1,19 @@
 <?php
-use PHPMailer\PHPMailer\PHPMailer\;
-use PHPMailer\PHPMailer\PHPMailer\;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
 
 require 'phpmailer/src/Exception.php';
 require 'phpmailer/src/PHPMailer.php';
 
 $mail = new PHPMailer(true);
-$mail->Charset = 'UTF-8';
+$mail->CharSet = 'UTF-8';
 $mail->setLanguage('ru', 'phpmailer/language/');
 $mail->IsHTML(true);
 
-$mail->setFrom('d.shumovsk@bk.ru', '123');
+$mail->setFrom('d.shumovsky@bk.ru', 'Mailer');
 
-$mail->addAddress('d.shumovsky@gmail.com', '456');
+$mail->addAddress('d.shumovsky@gmail.com', 'Joe User'); 
+
 
 $mail->Subject = 'Привет';
 
