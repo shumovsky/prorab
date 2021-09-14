@@ -9,6 +9,7 @@
     
     .footer__wrapper {
         display: flex;
+        position: relative;
     }
     
     .contact__us {
@@ -29,6 +30,12 @@
             &::placeholder {
                 @include font(2rem, 1, normal);
             }
+        }
+    }
+    
+    .contact__us_form {
+        ._error {
+            box-shadow: 0 0 15px red;
         }
     }
     

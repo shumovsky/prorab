@@ -227,20 +227,24 @@
     <footer class="footer">
         <p class="footer__title title">Нужна консультация? Напиши нам!</p>
         <div class="footer__wrapper wrapper">
-
             <div class="contact__us">
-                <form action="//formspree.io/d.shumovsky@bk.ru" method="POST" class="contact__us_form">
-                    <input type="text" name="Имя" id="name" placeholder="Имя">
-                    <input type="text" name="Телефон" placeholder="Телефон">
-                    <input type="text" name="email" placeholder="email">
+                <form action="#" id="form" class="contact__us_form">
+                    <input type="text" name="Имя" id="name" placeholder="Имя*" class="form_input _req">
+                    <input type="text" name="phone" placeholder="Телефон*" class="form_input _req">
+                    <input type="text" name="email" placeholder="email*" class=" form_input _req _email">
                     <textarea class="contact__us_text" name="Сообщение" id="" cols="30" rows="10" placeholder="Ваше сообщение"></textarea>
                     <button type="submit" class="footer__button button">Отправить</button>
                 </form>
-
+                <div class="footer__contact"></div>
             </div>
-            <div class="footer__contact"></div>
+            <div class='cssload-loader'>
+                <div class='cssload-inner cssload-one'></div>
+                <div class='cssload-inner cssload-two'></div>
+                <div class='cssload-inner cssload-three'></div>
+            </div>
         </div>
     </footer>
+    <script src="./src/sass/js/form.js"></script>
 </body>
 
 </html>
