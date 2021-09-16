@@ -403,6 +403,11 @@ h3 {
   color: #ffeee1;
   margin-top: 0;
 }
+@media (max-width: 1197px) {
+  h3 {
+    font-size: 3.5rem;
+  }
+}
 
 .title {
   color: #173a56;
@@ -411,10 +416,21 @@ h3 {
   margin-top: 0;
   padding: 10rem 0;
 }
+@media (max-width: 1197px) {
+  .title {
+    font-size: 3.5rem;
+  }
+}
 
 .wrapper {
   max-width: 1197px;
   margin: 0 auto;
+  padding: 0 16px;
+}
+@media (max-width: 768px) {
+  .wrapper {
+    padding: 0 25px;
+  }
 }
 
 .header {
@@ -436,6 +452,12 @@ h3 {
   flex-basis: 33%;
 }
 
+@media (max-width: 414px) {
+  .header__img {
+    display: none;
+  }
+}
+
 .contact {
   background-image: url(./../img/fon-first-min.png);
   background-size: cover;
@@ -452,6 +474,11 @@ h3 {
   line-height: 1.2;
   color: #ffeee1;
 }
+@media (max-width: 1197px) {
+  .contact__subtitle {
+    font-size: 2rem;
+  }
+}
 
 .contact__info {
   padding-bottom: 12rem;
@@ -465,6 +492,22 @@ h3 {
 }
 .contact__info a {
   color: #ffeee1;
+}
+@media (max-width: 1197px) {
+  .contact__info {
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.3;
+  }
+}
+@media (max-width: 320px) {
+  .contact__info {
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 2;
+  }
 }
 
 .about {
@@ -494,6 +537,11 @@ h3 {
 .header__nav_list a:hover {
   color: #1934ef;
 }
+@media (max-width: 1197px) {
+  .header__nav_list {
+    display: none;
+  }
+}
 
 .product {
   padding-bottom: 10rem;
@@ -503,6 +551,11 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+@media (max-width: 414px) {
+  .product__card {
+    flex-direction: column;
+  }
 }
 
 .product__card_item {
@@ -517,6 +570,11 @@ h3 {
 .product__card_item img {
   max-height: 20rem;
   padding: 2rem;
+}
+@media (max-width: 1197px) {
+  .product__card_item {
+    flex-basis: 30%;
+  }
 }
 
 .prodect__card_title {
@@ -550,7 +608,7 @@ h3 {
   justify-content: space-between;
 }
 .compani__info img {
-  max-width: 200px;
+  width: 100%;
 }
 
 .compani_img {
@@ -570,9 +628,14 @@ h3 {
   display: flex;
   position: relative;
 }
+@media (max-width: 1197px) {
+  .footer__wrapper {
+    flex-direction: column;
+  }
+}
 
 .contact__us {
-  flex-basis: 70%;
+  flex-basis: 60%;
 }
 
 .contact__us_form {
@@ -636,6 +699,35 @@ h3 {
   background: #173a56;
   color: #d7d7d7;
   border: 1px solid #ffeee1;
+}
+
+.footer__contact {
+  font-size: 2.2rem;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 2;
+  margin-left: 40px;
+  flex-basis: 40%;
+}
+.footer__contact img {
+  padding-right: 2rem;
+}
+.footer__contact a {
+  color: #ffeee1;
+}
+@media (max-width: 1197px) {
+  .footer__contact {
+    margin-top: 3rem;
+  }
+}
+@media (max-width: 320px) {
+  .footer__contact {
+    margin-right: 0;
+    font-size: 1.8rem;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 2;
+  }
 }
 
 .cssload-loader {

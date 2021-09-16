@@ -9,6 +9,10 @@
     img {
         max-height: 20rem;
         padding: 2rem;
+        // width: 100%;
+    }
+    @include media-laptop {
+        flex-basis: 30%;
     }
 }
 

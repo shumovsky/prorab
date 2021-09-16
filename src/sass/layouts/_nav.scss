@@ -10,4 +10,7 @@
             @extend %transition;
         }
     }
+    @include media-laptop {
+        display: none;
+    }
 }

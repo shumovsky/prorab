@@ -8,6 +8,9 @@ h3 {
     padding-top: 10rem;
     color: $color-primary;
     margin-top: 0;
+    @include media-laptop {
+        font-size: 3.5rem;
+    }
 }
 
 .title {
@@ -16,4 +19,7 @@ h3 {
     text-align: center;
     margin-top: 0;
     padding: 10rem 0;
+    @include media-laptop {
+        font-size: 3.5rem;
+    }
 }

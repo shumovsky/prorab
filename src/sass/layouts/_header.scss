@@ -16,3 +16,9 @@
 .header__nav {
     flex-basis: 33%;
 }
+
+.header__img {
+    @include media-mobile {
+        display: none;
+    }
+}

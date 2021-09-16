@@ -27,6 +27,8 @@ if(!$mail->send()){
   $message = 'Данные отправлены';
 }
 
+$mail->send();
+
 $response = ['message' => $message];
 
 header('Content-type: application/json');

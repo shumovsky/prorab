@@ -10,6 +10,9 @@
 .contact__subtitle {
     @include font(3rem, 1.2);
     color: $color-primary;
+    @include media-laptop {
+        font-size: 2rem;
+    }
 }
 
 .contact__info {
@@ -20,5 +23,11 @@
     }
     a {
         color: $color-primary;
+    }
+    @include media-laptop {
+        @include font(2rem, 1.3)
+    }
+    @include media-mobilesmall {
+        @include font(1.8rem, 2)
     }
 }

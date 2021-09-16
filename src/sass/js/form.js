@@ -9,6 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
         e.preventDefault();
         let error = formValidate(form);
 
+        let formData = new FormData(form);
+
         if (error === 0) {
             let response = await fetch('sendmail.php', {
                 method: 'POST',
@@ -20,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 form.reset();
             }
         } else {
-
+            alert('Заполните все поля')
         }
     }
 
@@ -44,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
         }
+        return error;
     }
 
     function formAddError(input) {
