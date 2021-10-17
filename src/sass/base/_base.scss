@@ -3,6 +3,10 @@ html {
     font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+    font-size: 0;
+}
+
 h3 {
     @include font(5rem);
     padding-top: 10rem;

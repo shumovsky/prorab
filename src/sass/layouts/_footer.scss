@@ -83,6 +83,12 @@
     @include media-laptop {
         margin-top: 3rem;
     }
+    @include media-mobile {
+        margin-left: 0;
+        img {
+            padding-right: 1rem;
+        }
+    }
     @include media-mobilesmall {
         margin-right: 0;
         @include font(1.8rem, 2)

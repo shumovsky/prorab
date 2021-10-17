@@ -20,6 +20,9 @@
     @include font(4rem, 2);
     img {
         padding-right: 2rem;
+        @include media-mobile {
+            padding-right: 1rem;
+        }
     }
     a {
         color: $color-primary;
@@ -30,4 +33,8 @@
     @include media-mobilesmall {
         @include font(1.8rem, 2)
     }
+}
+
+.contact__info_list_address {
+    pointer-events: none;
 }

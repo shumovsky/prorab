@@ -394,6 +394,10 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+h1 {
+  font-size: 0;
+}
+
 h3 {
   font-size: 5rem;
   font-style: normal;
@@ -490,6 +494,11 @@ h3 {
 .contact__info img {
   padding-right: 2rem;
 }
+@media (max-width: 414px) {
+  .contact__info img {
+    padding-right: 1rem;
+  }
+}
 .contact__info a {
   color: #ffeee1;
 }
@@ -508,6 +517,10 @@ h3 {
     font-weight: bold;
     line-height: 2;
   }
+}
+
+.contact__info_list_address {
+  pointer-events: none;
 }
 
 .about {
@@ -718,6 +731,14 @@ h3 {
 @media (max-width: 1197px) {
   .footer__contact {
     margin-top: 3rem;
+  }
+}
+@media (max-width: 414px) {
+  .footer__contact {
+    margin-left: 0;
+  }
+  .footer__contact img {
+    padding-right: 1rem;
   }
 }
 @media (max-width: 320px) {
