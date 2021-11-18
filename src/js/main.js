@@ -20,7 +20,7 @@ const renderItems = (data) => {
     })
 }
 
-fetch(`/db/sewerage-v.json`)
+fetch(`db/sewerage-v.json`)
     .then((response) => response.json())
     .then((data) => {
         renderItems(data);
