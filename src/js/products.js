@@ -1,5 +1,5 @@
 const productsCart = document.querySelector('.product__card');
-
+// const
 
 const renderItems = (data) => {
     data.forEach(({ name, image, description, alt, products }) => {
@@ -33,7 +33,7 @@ const renderItems = (data) => {
     })
 }
 
-fetch('../../db/products.json')
+fetch(`./db/products.json`)
     .then((response) => response.json())
     .then((data) => {
         renderItems(data);
