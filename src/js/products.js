@@ -1,31 +1,35 @@
-const products = document.querySelector('.product__card');
+const productsCart = document.querySelector('.product__card');
 
-// products.classList.add('')
 
 const renderItems = (data) => {
-    data.forEach(({ name, image, description, alt }) => {
+    data.forEach(({ name, image, description, alt, products }) => {
         const a = document.createElement('a');
 
-        a.setAttribute('href', '/sewerage.html');
+        a.setAttribute('href', '/products.html');
         a.classList.add('product__link');
+        a.dataset.products = products;
+
 
         a.innerHTML = `
                          <img class="product__card_img" src="${image}" alt=" ${alt} " />
                         <div class="product__card_info">
-                            <p class="prodect__card_title">${name}</p>
-                            <p class="prodect__card_text">
+                            <p class="product__card_title">${name}</p>
+                            <p class="product__card_text">
                                  ${description}
                             </p>
                         </div>
         `
-        products.append(a);
+        a.addEventListener('click', (e) => {
+            e.preventDefault();
 
-        // a.addEventListener('click', (event) => {
-        //     event.preventDefault();
+            const link = a.dataset.products;
 
+            localStorage.setItem('products', link);
 
-        // })
+            window.location.href = '/products.html';
+        })
 
+        productsCart.append(a);
     })
 }
 

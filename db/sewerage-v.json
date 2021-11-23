@@ -1,227 +1,225 @@
 [{
         "name": "&Oslash;32x250 мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/40.jpg",
+        "image": "/src/img/sewerage-v/40.jpg",
         "price": "5,00"
 
     },
     {
         "name": "Труба &Oslash;32х500мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/../src/img/sewerege-v/40.jpg",
+        "image": "/../src/img/sewerage-v/40.jpg",
         "price": "5,00"
     },
     {
         "name": "Труба &Oslash;32х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/40.jpg",
+        "image": "/src/img/sewerage-v/40.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;32х2000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/40.jpg",
+        "image": "/src/img/sewerage-v/40.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40х250мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/32.jpg",
+        "image": "/src/img/sewerage-v/32.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40х500 мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/32.jpg",
+        "image": "/src/img/sewerage-v/32.jpg",
         "price": "5,00"
 
     },
     {
         "name": "Труба &Oslash;40х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/../src/img/sewerege-v/32.jpg",
+        "image": "/../src/img/sewerage-v/32.jpg",
         "price": "5,00"
     },
     {
         "name": "Труба &Oslash;40х2000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/32.jpg",
+        "image": "/src/img/sewerage-v/32.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х250мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/50.jpg",
+        "image": "/src/img/sewerage-v/50.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х500мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/50.jpg",
+        "image": "/src/img/sewerage-v/50.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/50.jpg",
+        "image": "/src/img/sewerage-v/50.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х2000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/50.jpg",
+        "image": "/src/img/sewerage-v/50.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х250мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/110-1100x1100.jpg",
+        "image": "/src/img/sewerage-v/110-1100x1100.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х500мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/110-1100x1100.jpg",
+        "image": "/src/img/sewerage-v/110-1100x1100.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/110-1100x1100.jpg",
+        "image": "/src/img/sewerage-v/110-1100x1100.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х2000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/110-1100x1100.jpg",
+        "image": "/src/img/sewerage-v/110-1100x1100.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х3000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerege-v/110-1100x1100.jpg",
+        "image": "/src/img/sewerage-v/110-1100x1100.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;32",
         "description": "Заглушка ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/zagl32.jpg",
+        "image": "/src/img/sewerage-v/zagl32.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40",
         "description": "Заглушка ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/zagl32.jpg",
+        "image": "/src/img/sewerage-v/zagl32.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50",
         "description": "Заглушка ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/zagl32.jpg",
+        "image": "/src/img/sewerage-v/zagl32.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110",
         "description": "Заглушка ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/zagl110.jpg",
+        "image": "/src/img/sewerage-v/zagl110.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;32х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol50-45.jpg",
+        "image": "/src/img/sewerage-v/kol50-45.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;32х90&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol90.jpg",
+        "image": "/src/img/sewerage-v/kol90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol50-45.jpg",
+        "image": "/src/img/sewerage-v/kol50-45.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40х90&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol90.jpg",
+        "image": "/src/img/sewerage-v/kol90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol50-45.jpg",
+        "image": "/src/img/sewerage-v/kol50-45.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х90&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol90.jpg",
+        "image": "/src/img/sewerage-v/kol90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/koleno-kanalizacionnoe.jpg",
+        "image": "/src/img/sewerage-v/koleno-kanalizacionnoe.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х90&deg;",
         "description": "Колено ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/kol110x90.jpg",
+        "image": "/src/img/sewerage-v/kol110x90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;32х32х45&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk45.jpg",
+        "image": "/src/img/sewerage-v/trk45.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;32х32х90&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk90.jpg",
+        "image": "/src/img/sewerage-v/trk90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40х40х45&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk45.jpg",
+        "image": "/src/img/sewerage-v/trk45.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;40х40х90&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk90.jpg",
+        "image": "/src/img/sewerage-v/trk90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х50х45&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk45.jpg",
+        "image": "/src/img/sewerage-v/trk45.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;50х50х90&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk90.jpg",
+        "image": "/src/img/sewerage-v/trk90.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х110х45&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk110x46.jpg",
+        "image": "/src/img/sewerage-v/trk110x46.jpg",
         "price": "5,00"
     },
     {
         "name": "&Oslash;110х110х90&deg;",
         "description": "Тройник ПВХ Ostendorf ",
-        "image": "/src/img/sewerege-v/trk110x90.png",
+        "image": "/src/img/sewerage-v/trk110x90.png",
         "price": "5,00"
     }
-
-
 ]

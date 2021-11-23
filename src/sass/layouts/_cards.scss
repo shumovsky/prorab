@@ -17,7 +17,7 @@
     }
 }
 
-.prodect__card_title {
+.product__card_title {
     @include font(2rem, normal);
     text-transform: uppercase;
 }
@@ -28,7 +28,7 @@
     width: 100%;
 }
 
-.prodect__card_text {
+.product__card_text {
     @include font(1.7rem, 1, normal);
     padding: 15px 25px;
 }

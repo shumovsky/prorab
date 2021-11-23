@@ -20,11 +20,13 @@ const renderItems = (data) => {
     })
 }
 
-fetch(`/db/sewerage-v.json`)
-    .then((response) => response.json())
-    .then((data) => {
-        renderItems(data);
-    })
-    .catch((error) => {
-        console.log(error);
-    })
+if (localStorage.getItem('products')) {
+    fetch(`db/${localStorage.getItem('products')}`)
+        .then((response) => response.json())
+        .then((data) => {
+            renderItems(data);
+        })
+        .catch((error) => {
+            console.log(error);
+        })
+}

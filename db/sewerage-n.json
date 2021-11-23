@@ -1,0 +1,133 @@
+[{
+        "name": "&Oslash;110х250мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х1000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х3000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Заглушка ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/zaglushka.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х67&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x67.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х90&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х110x45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/wue110x45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х110x90&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/wue110x90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50х90&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/kol90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/koleno-kanalizacionnoe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х90&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/kol110x90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;32х32х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;32х32х90&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;40х40х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;40х40х90&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50х50х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50х50х90&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х110х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk110x46.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х110х90&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/trk110x90.png",
+        "price": "5,00"
+    }
+]
