@@ -1,0 +1,199 @@
+[{
+        "name": "PPR S 2.5 20х3,4",
+        "description": "Труба полипропиленовая, серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "PPR S SDR 2.5 25х4,2",
+        "description": "Труба полипропиленовая, серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "PPR S SDR 2.5 32х5,4",
+        "description": "Труба полипропиленовая, серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20",
+        "description": "Заглушка полипропиленовая, серая",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "25",
+        "description": "Заглушка полипропиленовая, серая",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "32",
+        "description": "Заглушка полипропиленовая, серая",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "40",
+        "description": "Заглушка полипропиленовая, серый",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "20 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "35 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "32 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "32",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "40",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "32",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "25x1",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "32x1/2",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "32x3/4",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "32x1",
+        "description": "Ниппель наружний полипропиленовый, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта внутренняя полипропиленовый, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта внутренняя полипропиленовый, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта внутренняя полипропиленовый, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта внутренняя полипропиленовый, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpeg",
+        "price": "5,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта внутренняя полипропиленовый, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpeg",
+        "price": "5,00"
+    }
+]

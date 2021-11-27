@@ -1,0 +1,62 @@
+[{
+        "name": "1/2",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "3/4",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1 1/4",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1 1/2",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1 1/4",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1 1/2",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "5,00"
+    }
+
+]

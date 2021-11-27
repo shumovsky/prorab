@@ -1,0 +1,55 @@
+[{
+        "name": "1/2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "3/4",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1 1/4",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1 1/2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "М8х10х80мм",
+        "description": "Анкер с г-образным крюком",
+        "image": "/src/img/krepez/ankerL.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "М10х12х130мм",
+        "description": "Анкер с г-образным крюком",
+        "image": "/src/img/krepez/ankerL.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "М6х80",
+        "description": "Набор для крепления унитаза",
+        "image": "/src/img/krepez/nabor-dlja-kreplenija-unitaza.jpg",
+        "price": "5,00"
+    }
+]

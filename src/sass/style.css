@@ -588,8 +588,9 @@ h3 {
   color: #000;
 }
 .product__link img {
-  width: 100%;
+  width: 70%;
   padding: 2rem;
+  margin: 0 auto;
 }
 @media (max-width: 1197px) {
   .product__link {

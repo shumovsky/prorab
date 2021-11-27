@@ -67,7 +67,19 @@
         "price": "5,00"
     },
     {
+        "name": "&Oslash;50х1500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/50.jpg",
+        "price": "5,00"
+    },
+    {
         "name": "&Oslash;50х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/50.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50х3000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-v/50.jpg",
         "price": "5,00"
@@ -127,6 +139,30 @@
         "price": "5,00"
     },
     {
+        "name": "&Oslash;32",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;40",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta110.jpg",
+        "price": "5,00"
+    },
+    {
         "name": "&Oslash;32х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-v/kol50-45.jpg",
@@ -151,13 +187,31 @@
         "price": "5,00"
     },
     {
+        "name": "&Oslash;50х15&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/kol50-45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50х30&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/kol50-45.jpg",
+        "price": "5,00"
+    },
+    {
         "name": "&Oslash;50х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-v/kol50-45.jpg",
         "price": "5,00"
     },
     {
-        "name": "&Oslash;50х90&deg;",
+        "name": "&Oslash;50х67&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/kol50-45.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;50х87&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-v/kol90.jpg",
         "price": "5,00"
@@ -169,7 +223,7 @@
         "price": "5,00"
     },
     {
-        "name": "&Oslash;110х90&deg;",
+        "name": "&Oslash;110х87&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-v/kol110x90.jpg",
         "price": "5,00"
