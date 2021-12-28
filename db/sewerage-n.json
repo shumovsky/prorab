@@ -1,80 +1,85 @@
 [{
-        "name": "&Oslash;110х250мм",
-        "description": "Труба канализационая ПВХ Ostendorf",
-        "image": "/src/img/sewerage-n/pipe.jpg",
-        "price": "5,00"
-    },
-    {
         "name": "&Oslash;110х500мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-n/pipe.jpg",
-        "price": "5,00"
+        "price": "7,50"
     },
     {
         "name": "&Oslash;110х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-n/pipe.jpg",
-        "price": "5,00"
+        "price": "12,00"
     },
     {
         "name": "&Oslash;110х2000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-n/pipe.jpg",
-        "price": "5,00"
+        "price": "23,00"
     },
     {
         "name": "&Oslash;110х3000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-n/pipe.jpg",
-        "price": "5,00"
+        "price": "35,00"
     },
     {
         "name": "&Oslash;110",
         "description": "Заглушка ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/zaglushka.jpg",
-        "price": "5,00"
+        "price": "2,70"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Муфта ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/union.jpg",
+        "price": "8,90"
     },
     {
         "name": "&Oslash;110х15&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/injection110x45.jpg",
-        "price": "5,00"
+        "price": "7,50"
     },
     {
         "name": "&Oslash;110х30&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/injection110x45.jpg",
-        "price": "5,00"
+        "price": "7,50"
     },
     {
         "name": "&Oslash;110х45&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/injection110x45.jpg",
-        "price": "5,00"
+        "price": "7,50"
     },
     {
         "name": "&Oslash;110х67&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/injection110x67.jpg",
-        "price": "5,00"
+        "price": "7,50"
     },
     {
         "name": "&Oslash;110х87&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/injection110x90.jpg",
-        "price": "5,00"
+        "price": "7,50"
     },
     {
         "name": "&Oslash;110х110x45&deg;",
         "description": "Тройник ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/wue110x45.jpg",
-        "price": "5,00"
+        "price": "15,50"
     },
     {
         "name": "&Oslash;110х110x87&deg;",
         "description": "Колено ПВХ Ostendorf ",
         "image": "/src/img/sewerage-n/wue110x90.jpg",
-        "price": "5,00"
+        "price": "15,50"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Обратный клапан ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/obr110n.jpg",
+        "price": "69,80"
     }
-
 ]

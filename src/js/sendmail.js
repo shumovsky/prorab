@@ -1,42 +1,70 @@
-$("#sendMail").on('click', function() {
-    let name = $("#name").val().trim();
-    let phone = $("#phone").val().trim();
-    let email = $("#email").val().trim();
-    let message = $("#textarea").val().trim();
+"use strict";
 
-    if (name == '') {
-        alert('Заполните все поля')
-        return false;
-    } else if (phone == '') {
-        alert('Заполните все поля')
-        return false;
-    } else if (email == '') {
-        alert('Заполните все поля')
-        return false;
-    } else if (message.length < 5) {
-        alert('Заполните все поля')
-        return false;
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('form');
+    form.addEventListener('submit', formSend);
+
+
+    async function formSend(e) {
+        e.preventDefault();
+
+        let error = formValidate(form);
+
+        let formData = new FormData(form);
+
+        if (error === 0) {
+            form.parentElement.classList.add('_sending');
+            let response = await fetch('../sendmail.php', {
+                method: 'POST',
+                body: formData
+            });
+            if (response.ok) {
+                let result = await response.json();
+                alert(result.message);
+                form.reset();
+                form.parentElement.classList.remove('_sending');
+            } else {
+
+            }
+        } else {
+            alert('Заполните все поля');
+            form.parentElement.classList.remove('_sending');
+        }
     }
 
+    function formValidate(form) {
+        let error = 0;
+        let formReq = document.querySelectorAll('._req');
 
-    $.ajax({
-        url: 'ajax/mail.php',
-        type: 'POST',
-        cache: false,
-        data: { 'name': name, 'phone': phone, 'email': email, 'message': message },
-        dataType: 'html',
-        beforeSend: function() {
-            $("#sendMail").prop('disabled', true);
-        },
-        success: function(data) {
-            if (!data) {
-                alert('Возникли ошики, сообщение не отправлено!')
+        for (let index = 0; index < formReq.length; index++) {
+            const input = formReq[index];
+
+            if (input.classList.contains('_email')) {
+                if (emailTest(input)) {
+                    formAddError(input);
+                    error++;
+                }
             } else {
-                $("#form").trigger("reset");
+                if (input.value === '') {
+                    formAddError(input);
+                    error++
+                }
             }
-
-            alert(data);
-            $("#sendMail").prop('disabled', false);
         }
-    })
+        return error;
+    }
+
+    function formAddError(input) {
+        input.parentElement.classList.add('_error');
+        input.classList.add('_error');
+    }
+
+    function formRemoveError(input) {
+        input.parentElement.classList.remove('_error');
+        input.classList.remove('_error');
+    }
+
+    function emailTest(input) {
+        return !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,8})+$/.test(input.value);
+    }
 });

@@ -45,6 +45,9 @@
     img {
         width: 150px;
     }
+    @include media-mobile {
+        flex-basis: 100%;
+    }
 }
 
 .product__info_title {

@@ -3,7 +3,7 @@
         "description": "Трубопроводная запорная армтура для систем отопления и водоснабжения из бронзы, латуни, стали или кованного чугуна.",
         "image": "./src/img/product/cranes-min.png",
         "alt": "Запорная арматура",
-        "products": ""
+        "products": "tap.json"
     },
     {
         "name": "ГИБКАЯ ПОДВОДКА",
@@ -74,6 +74,13 @@
         "image": "./src/img/product/pump.png",
         "alt": "Насос",
         "products": ""
+    },
+    {
+        "name": "Смесиели",
+        "description": "Смеситили для кухни, умывальника и ванных комнат.",
+        "image": "./src/img/product/mixes.jpg",
+        "alt": "Насос",
+        "products": "mixes.json"
     }
 
 

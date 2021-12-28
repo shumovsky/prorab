@@ -1,0 +1,43 @@
+[{
+        "name": "KUA8-275",
+        "description": "Смеситель для кухни ",
+        "image": "/src/img/mixes/KUA8-275.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "NZB4-KD-804",
+        "description": "Смеситель для кухни ",
+        "image": "/src/img/mixes/NZB4-KD-804.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "NZB4-KG-804",
+        "description": "Смеситель для кухни ",
+        "image": "/src/img/mixes/NZB4-KG-804.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "NZB4-KG-804",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/D6-404-bathroom.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "D6-404",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/D6-404-bathroom.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "SBB-596",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/SBB-596bathroom.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "SBB-605",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/SBB-605bathroom.jpg",
+        "price": "5,00"
+    }
+]

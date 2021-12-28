@@ -1,0 +1,127 @@
+[{
+        "name": "1/2",
+        "description": "Кран полнопроходной наружний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-lever.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной наружний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-lever.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной наружний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-lever.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-lever.jpg",
+        "price": "14,70"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-lever.jpg",
+        "price": "19,50"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-lever.jpg",
+        "price": "33,50"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-внутренний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-f-lever.jpg",
+        "price": "14,00"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-внутренний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-f-lever.jpg",
+        "price": "17,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-внутренний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-f-lever.jpg",
+        "price": "31,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-наружний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-knob.jpg",
+        "price": "14,70"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-наружний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-knob.jpg",
+        "price": "18,50"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-наружний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-knob.jpg",
+        "price": "33,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-внутренний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-knob.jpg",
+        "price": "13,90"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-внутренний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-knob.jpg",
+        "price": "18,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-внутренний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-knob.jpg",
+        "price": "32,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "17,50"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "27,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "45,00"
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран шаровый MINI",
+        "image": "/src/img/tap/mini.jpg",
+        "price": "11,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран шаровый MINI",
+        "image": "/src/img/tap/mini-black.jpg",
+        "price": "11,00"
+    }
+]

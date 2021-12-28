@@ -6,11 +6,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5rem 0;
+}
+
+.logo {
+    flex-basis: 60%;
 }
 
 .header__logo {
-    flex-basis: 33%;
+    img {
+        width: 20%;
+        @include media-mobile {
+            width: 40%;
+        }
+    }
 }
 
 .header__nav {
