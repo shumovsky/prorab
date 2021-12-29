@@ -6,13 +6,13 @@
 
     },
     {
-        "name": "Труба &Oslash;32х500мм",
+        "name": "&Oslash;32х500мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/../src/img/sewerage-v/pipe32.jpg",
         "price": "2,50"
     },
     {
-        "name": "Труба &Oslash;32х1000мм",
+        "name": "&Oslash;32х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-v/pipe32.jpg",
         "price": "4,00"
@@ -37,13 +37,13 @@
 
     },
     {
-        "name": "Труба &Oslash;40х1000мм",
+        "name": "&Oslash;40х1000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/../src/img/sewerage-v/pipe32.jpg",
         "price": "4,00"
     },
     {
-        "name": "Труба &Oslash;40х2000мм",
+        "name": "&Oslash;40х2000мм",
         "description": "Труба канализационая ПВХ Ostendorf",
         "image": "/src/img/sewerage-v/pipe32.jpg",
         "price": "7,00"

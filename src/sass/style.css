@@ -402,6 +402,12 @@ h3 {
     font-size: 3.5rem;
   }
 }
+@media (max-width: 414px) {
+  .title {
+    padding: 5rem 0;
+    margin-bottom: 0;
+  }
+}
 
 .wrapper {
   max-width: 1197px;
@@ -426,6 +432,7 @@ h3 {
 
 .logo {
   flex-basis: 60%;
+  padding: 15px 0;
 }
 
 .header__logo img {
@@ -433,7 +440,7 @@ h3 {
 }
 @media (max-width: 414px) {
   .header__logo img {
-    width: 40%;
+    width: 60%;
   }
 }
 
@@ -455,6 +462,17 @@ h3 {
 .contact__text {
   margin-bottom: 10rem;
 }
+@media (max-width: 414px) {
+  .contact__text {
+    margin-bottom: 5rem;
+  }
+}
+
+@media (max-width: 414px) {
+  .contact__title {
+    padding-top: 5rem;
+  }
+}
 
 .contact__subtitle {
   font-size: 3rem;
@@ -475,6 +493,11 @@ h3 {
   font-style: normal;
   font-weight: bold;
   line-height: 2;
+}
+@media (max-width: 414px) {
+  .contact__info {
+    padding-bottom: 5rem;
+  }
 }
 .contact__info img {
   padding-right: 2rem;
@@ -511,6 +534,11 @@ h3 {
 .about {
   background: #d7d7d7;
   padding-bottom: 10rem;
+}
+@media (max-width: 414px) {
+  .about {
+    padding-bottom: 5rem;
+  }
 }
 
 .about__text {
@@ -619,6 +647,11 @@ h3 {
   width: 150px;
 }
 @media (max-width: 414px) {
+  .card__info {
+    flex-basis: 100%;
+  }
+}
+@media (max-width: 320px) {
   .card__info {
     flex-basis: 100%;
   }

@@ -48,6 +48,9 @@
     @include media-mobile {
         flex-basis: 100%;
     }
+    @include media-mobilesmall {
+        flex-basis: 100%
+    }
 }
 
 .product__info_title {

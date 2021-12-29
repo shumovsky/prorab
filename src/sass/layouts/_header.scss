@@ -10,13 +10,14 @@
 
 .logo {
     flex-basis: 60%;
+    padding: 15px 0;
 }
 
 .header__logo {
     img {
         width: 20%;
         @include media-mobile {
-            width: 40%;
+            width: 60%;
         }
     }
 }

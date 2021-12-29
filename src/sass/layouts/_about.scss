@@ -1,6 +1,9 @@
 .about {
     background: $color-background;
     padding-bottom: 10rem;
+    @include media-mobile {
+        padding-bottom: 5rem;
+    }
 }
 
 .about__text {
