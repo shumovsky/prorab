@@ -53,18 +53,6 @@
         "price": "7,80"
     },
     {
-        "name": "1' 1/4",
-        "description": "Ниппель",
-        "image": "/src/img/fittings-lat/nippel.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "1' 1/2",
-        "description": "Ниппель",
-        "image": "/src/img/fittings-lat/nippel.jpg",
-        "price": "5,00"
-    },
-    {
         "name": "1/2 x 3/8",
         "description": "Ниппель редукционный",
         "image": "/src/img/fittings-lat/nippel-red.jpg",
@@ -135,30 +123,6 @@
         "description": "Муфта редукционная",
         "image": "/src/img/fittings-lat/mufta-redcut.jpg",
         "price": "5,90"
-    },
-    {
-        "name": "1' 1/4 х 3/4",
-        "description": "Муфта редукционная",
-        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "1' 1/2 х 1",
-        "description": "Муфта редукционная",
-        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "2 х 1",
-        "description": "Муфта редукционная",
-        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "2 х 1' 1/4",
-        "description": "Муфта редукционная",
-        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "5,00"
     },
     {
         "name": "3/8 x 1/4",

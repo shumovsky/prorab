@@ -1,0 +1,67 @@
+[{
+        "name": "11м*19мм*0,2мм",
+        "description": "ФУМ-лента 'JUMBOTAPE'",
+        "image": "/src/img/other/jumbotipe.jpg",
+        "price": "6,00"
+    },
+    {
+        "name": "13,2 м*12мм*0,075мм",
+        "description": "ФУМ-лента 'UNITAPE'",
+        "image": "/src/img/other/unitape.jpg",
+        "price": "1,50"
+    },
+    {
+        "name": "100г",
+        "description": "Лен сантехнический 'UNIGARN', коса",
+        "image": "/src/img/other/unigard.jpg",
+        "price": "5,90"
+    },
+    {
+        "name": "200г",
+        "description": "Лен сантехнический 'UNIGARN', коса",
+        "image": "/src/img/other/unigard.jpg",
+        "price": "9,20"
+    },
+    {
+        "name": "500г",
+        "description": "Лен сантехнический 'UNIGARN', коса",
+        "image": "/src/img/other/unigard.jpg",
+        "price": "17,50"
+    },
+    {
+        "name": "25г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "/src/img/other/unipak.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "65г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "/src/img/other/unipak.jpg",
+        "price": "7,20"
+    },
+    {
+        "name": "250г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "/src/img/other/unipak.jpg",
+        "price": "14,20"
+    },
+    {
+        "name": "360г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "/src/img/other/unipak-b.jpg",
+        "price": "15,20"
+    },
+    {
+        "name": "500г",
+        "description": "Паста для уплотнения резьбовых соединений 'MULTIPAK'",
+        "image": "/src/img/other/multipak.jpg",
+        "price": "3,10"
+    },
+    {
+        "name": "250г",
+        "description": "Паста для уплотнения резьбовых соединений 'MULTIPAK'",
+        "image": "/src/img/other/multipak.jpg",
+        "price": "22,00"
+    }
+]

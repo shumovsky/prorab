@@ -623,6 +623,7 @@ h3 {
   background-color: #d7d7d7;
   height: 100%;
   width: 100%;
+  padding: 0 1rem;
 }
 
 .product__card_text {
