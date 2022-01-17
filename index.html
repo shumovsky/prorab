@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="keywords" content="сантехника сантехнический инженерная запорная арматура кран радиатор полипропилен насос фитинг канадизация трубы канализация">
+    <meta name="keywords" content="сантехника сантехнический инженерная запорная арматура кран радиатор полипропилен насос фитинг канадизация трубы канализация магазин сантехники">
     <meta name="description" content="Магазин сантехники в г.Борисов. Сантехнические изделия. сантехника сантехнический инженерная запорная арматура кран радиатор полипропилен насос фитинг канадизация трубы канализация">
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.jpg">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
@@ -17,7 +17,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <script src="./src/js/products.js" defer></script>
+    <script src="./src/js/main.js" defer></script>
+    <script src="./src/js/sendmail.js" defer></script>
     <title>Инженерная сантехника</title>
 </head>
 
@@ -30,22 +31,25 @@
                     <img src="./src/img/logo.png" alt="">
                 </a>
             </div>
-            <div class="header__nav nav">
+            <div class="header__nav">
                 <ul class="header__nav_list">
-                    <li class="header__nav_kist-item">
+                    <li class="header__nav_list-item">
                         <a href="#">О нас</a>
                     </li>
-                    <li class="header__nav_kist-item">
+                    <li class="header__nav_list-item">
                         <a href="#product">Продукция</a>
                     </li>
-                    <li class="header__nav_kist-item">
+                    <li class="header__nav_list-item">
                         <a href="#company">Призводители</a>
                     </li>
                 </ul>
             </div>
+            <div class="hamburger">
+                <span class="line"></span>
+                <span class="line"></span>
+                <span class="line"></span>
+            </div>
         </div>
-    </header>
-    <main class="main">
         <section class="contact">
             <div class="contact__wrapper wrapper">
                 <div class="contact__text">
@@ -68,6 +72,8 @@
                 </div>
             </div>
         </section>
+    </header>
+    <main class="main">
         <section class="about" id="about">
             <div class="about__wrapper wrapper">
                 <h3 class="about_title title">О компании</h3>
@@ -87,6 +93,7 @@
                 <h3 class="product__title title">Каталог сантехнической продукции</h3>
                 <div class="product__card">
                 </div>
+            </div>
         </section>
         <section class="company" id="company">
             <div class="company__wrapper wrapper">
@@ -102,7 +109,7 @@
                         <img src="./src/img/company/ostendorf.png" alt="" />
                     </div>
                     <div class="compani_img">
-                        <img src="./src/img/company/tucai .png" alt="" />
+                        <img src="./src/img/company/tucai.png" alt="" />
                     </div>
                     <div class="compani_img">
                         <img src="./src/img/company/unidelta.png" alt="" />

@@ -1,43 +1,34 @@
-const productsCart = document.querySelector('.product__card');
-// const
+const cardsInfo = document.querySelector('.products__card_info');
+
 
 const renderItems = (data) => {
-    data.forEach(({ name, image, description, alt, products }) => {
-        const a = document.createElement('a');
+    data.forEach(({ name, description, price, image }) => {
+        const card = document.createElement('div');
 
-        a.setAttribute('href', '/products.html');
-        a.classList.add('product__link');
-        a.dataset.products = products;
+        card.classList.add('card__info');
 
-
-        a.innerHTML = `
-                         <img class="product__card_img" src="${image}" alt=" ${alt} " />
+        card.innerHTML = `
+                        <div>
+                        <img class="product__card_img" src="${image}" alt="" />
+                        </div>
                         <div class="product__card_info">
-                            <p class="product__card_title">${name}</p>
-                            <p class="product__card_text">
-                                 ${description}
-                            </p>
+                            <p class="product__info_title">${description} </p>
+                            <p class="product__card_description">${name} </p>
+                            <p class="product__card_price">${price} руб.</p>
                         </div>
         `
-        a.addEventListener('click', (e) => {
-            e.preventDefault();
 
-            const link = a.dataset.products;
-
-            localStorage.setItem('products', link);
-
-            window.location.href = '/products.html';
-        })
-
-        productsCart.append(a);
+        cardsInfo.append(card)
     })
 }
 
-fetch(`./db/products.json`)
-    .then((response) => response.json())
-    .then((data) => {
-        renderItems(data);
-    })
-    .catch((error) => {
-        console.log(error);
-    })
+if (localStorage.getItem('products')) {
+    fetch(`db/${localStorage.getItem('products')}`)
+        .then((response) => response.json())
+        .then((data) => {
+            renderItems(data);
+        })
+        .catch((error) => {
+            console.log(error);
+        })
+}

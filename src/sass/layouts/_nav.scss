@@ -1,3 +1,22 @@
+.header__nav {
+    flex-basis: 33%;
+    @include media-tablet {
+        position: absolute;
+        right: 0;
+        top: 0;
+        background: #fff;
+        height: 80%;
+        margin-right: -350px;
+    }
+}
+
+.nav {
+    margin-right: 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
 .header__nav_list {
     display: flex;
     justify-content: space-between;
@@ -11,6 +30,15 @@
         }
     }
     @include media-laptop {
-        display: none;
+        flex-direction: column;
+        margin-left: 3rem;
+        padding-top: 14rem;
+        padding-right: 7rem;
+    }
+}
+
+.header__nav_list-item {
+    @include media-tablet {
+        @include font(3.5rem, 7.5rem)
     }
 }

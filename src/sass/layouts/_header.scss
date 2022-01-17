@@ -1,5 +1,7 @@
 .header {
     background: $color-background;
+    position: relative;
+    overflow: hidden;
 }
 
 .header__wrapper {
@@ -20,10 +22,6 @@
             width: 60%;
         }
     }
-}
-
-.header__nav {
-    flex-basis: 33%;
 }
 
 .header__img {
