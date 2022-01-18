@@ -98,13 +98,7 @@
         "name": "1' 1/4",
         "description": "Муфта",
         "image": "/src/img/fittings-lat/mufta.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "1' 1/2",
-        "description": "Муфта",
-        "image": "/src/img/fittings-lat/mufta.jpg",
-        "price": "5,00"
+        "price": "14,50"
     },
     {
         "name": "3/4 х 1/2",
@@ -278,19 +272,31 @@
         "name": "1/2",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "5,00"
+        "price": "16,50"
     },
     {
         "name": "3/4",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "5,00"
+        "price": "22,0"
     },
     {
         "name": "1",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "5,00"
+        "price": "30,50"
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "35,00"
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "45,00"
     },
     {
         "name": "1/2",

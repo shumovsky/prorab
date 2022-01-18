@@ -1,34 +1,58 @@
-const cardsInfo = document.querySelector('.products__card_info');
+const menu = () => {
+    const hamburger = document.querySelector('.hamburger');
+    const nav = document.querySelector('.header__nav');
 
-
-const renderItems = (data) => {
-    data.forEach(({ name, description, price, image }) => {
-        const card = document.createElement('div');
-
-        card.classList.add('card__info');
-
-        card.innerHTML = `
-                        <div>
-                        <img class="product__card_img" src="${image}" alt="" />
-                        </div>
-                        <div class="product__card_info">
-                            <p class="product__info_title">${description} </p>
-                            <p class="product__card_description">${name} </p>
-                            <p class="product__card_price">${price} руб.</p>
-                        </div>
-        `
-
-        cardsInfo.append(card)
+    hamburger.addEventListener('click', () => {
+        nav.classList.toggle('nav');
+        hamburger.classList.toggle('hamburger_active');
     })
 }
 
-if (localStorage.getItem('products')) {
-    fetch(`db/${localStorage.getItem('products')}`)
-        .then((response) => response.json())
-        .then((data) => {
-            renderItems(data);
+menu();
+
+
+
+
+
+const productsCart = document.querySelector('.product__card');
+
+const renderItems = (data) => {
+    data.forEach(({ name, image, description, alt, products }) => {
+        const a = document.createElement('a');
+
+        a.setAttribute('href', '/products.html');
+        a.classList.add('product__link');
+        a.dataset.products = products;
+
+
+        a.innerHTML = `
+                         <img class="product__card_img" src="${image}" alt=" ${alt} " />
+                        <div class="product__card_info">
+                            <p class="product__card_title">${name}</p>
+                            <p class="product__card_text">
+                                 ${description}
+                            </p>
+                        </div>
+        `
+        a.addEventListener('click', (e) => {
+            e.preventDefault();
+
+            const link = a.dataset.products;
+
+            localStorage.setItem('products', link);
+
+            window.location.href = '/products.html';
         })
-        .catch((error) => {
-            console.log(error);
-        })
+
+        productsCart.append(a);
+    })
 }
+
+fetch(`./db/products.json`)
+    .then((response) => response.json())
+    .then((data) => {
+        renderItems(data);
+    })
+    .catch((error) => {
+        console.log(error);
+    })
