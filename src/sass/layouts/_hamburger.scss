@@ -1,6 +1,7 @@
 .hamburger {
     display: none;
     cursor: pointer;
+    z-index: 10;
     @include media-tablet {
         display: block;
     }

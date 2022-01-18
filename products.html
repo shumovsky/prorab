@@ -17,6 +17,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="./src/img/favicon.ico">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <script src="./src/js/products.js" defer></script>
+    <script src="./src/js/hamburger.js" defer></script>
     <title>Магазин сантехники</title>
 </head>
 
@@ -29,16 +30,19 @@
                     <img src="./src/img/photo_2021-11-30_13-49-20.png" alt="">
                 </a>
             </div>
-            <div class="header__nav nav">
+            <div class="header__nav">
                 <ul class="header__nav_list">
-                    <li class="header__nav_kist-item">
-                        <a href="#">О нас</a>
+                    <li class="header__nav_list-item">
+                        <a href="#about">О нас</a>
                     </li>
-                    <li class="header__nav_kist-item">
+                    <li class="header__nav_list-item">
                         <a href="#product">Продукция</a>
                     </li>
-                    <li class="header__nav_kist-item">
+                    <li class="header__nav_list-item">
                         <a href="#company">Призводители</a>
+                    </li>
+                    <li class="header__nav_list-item">
+                        <a href="#contact">Контакты</a>
                     </li>
                 </ul>
             </div>
@@ -111,7 +115,7 @@
     <footer class="footer">
         <h3 class="footer__title title">Нужна консультация? Напиши нам!</h3>
         <div class="footer__wrapper wrapper">
-            <div class="contact__us">
+            <div class="contact__us" id="contact">
                 <form id="form" class="contact__us_form SendMail">
                     <input type="text" name="Имя" id="name" placeholder="Имя*" class="form_input _req">
                     <input type="text" id="phone" name="phone" placeholder="Телефон*" class="form_input _req">

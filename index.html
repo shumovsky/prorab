@@ -18,6 +18,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <script src="./src/js/main.js" defer></script>
+    <script src="./src/js/hamburger.js" defer></script>
     <script src="./src/js/sendmail.js" defer></script>
     <title>Инженерная сантехника</title>
 </head>
@@ -42,6 +43,9 @@
                     <li class="header__nav_list-item">
                         <a href="#company">Призводители</a>
                     </li>
+                    <li class="header__nav_list-item">
+                        <a href="#contact">Контакты</a>
+                    </li>
                 </ul>
             </div>
             <div class="hamburger">
@@ -50,29 +54,29 @@
                 <span class="line"></span>
             </div>
         </div>
-        <section class="contact">
-            <div class="contact__wrapper wrapper">
-                <div class="contact__text">
-                    <h3 class="contact__title">Качественная сантехника</h3>
-                    <p class="contact__subtitle">от ведущих производителей</p>
-                </div>
-                <div class="contact__info">
-                    <ul class="contact__info_list">
-                        <li>
-                            <a href="tel:+375299692411"><img src="./src/img/icons/phone.svg" alt="">+ 375 29 96 92 411
-                            </a>
-                        </li>
-                        <li>
-                            <a href="mailto:pancherprime@gmail.com "><img src="./src/img/icons/email.svg" alt="" />pancherprime@gmail.com</a>
-                        </li>
-                        <li class="contact__info_list_address">
-                            <a href="#"><img src="./src/img/icons/home.svg" alt="адрес" />г. Борисов, пр-т Дзержинского 76б</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
     </header>
+    <section class="contact">
+        <div class="contact__wrapper wrapper">
+            <div class="contact__text">
+                <h3 class="contact__title">Качественная сантехника</h3>
+                <p class="contact__subtitle">от ведущих производителей</p>
+            </div>
+            <div class="contact__info">
+                <ul class="contact__info_list">
+                    <li>
+                        <a href="tel:+375299692411"><img src="./src/img/icons/phone.svg" alt="">+ 375 29 96 92 411
+                        </a>
+                    </li>
+                    <li>
+                        <a href="mailto:pancherprime@gmail.com "><img src="./src/img/icons/email.svg" alt="" />pancherprime@gmail.com</a>
+                    </li>
+                    <li class="contact__info_list_address">
+                        <a href="#"><img src="./src/img/icons/home.svg" alt="адрес" />г. Борисов, пр-т Дзержинского 76б</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
     <main class="main">
         <section class="about" id="about">
             <div class="about__wrapper wrapper">
@@ -137,7 +141,7 @@
                 </form>
                 <div class="footer__contact"></div>
             </div>
-            <div class="footer__contact">
+            <div class="footer__contact" id="contact">
                 <ul class="contact__info_list">
                     <li>
                         <a href="tel:+37529969241"><img src="./src/img/icons/phone.svg" alt="">+ 375 29 96 92 411

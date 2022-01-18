@@ -1,23 +1,5 @@
 [{
         "name": "1/2",
-        "description": "Кран полнопроходной наружний-наружний, рычаг 'IDEAL' itap",
-        "image": "/src/img/tap/ideal-m-m-lever.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "3/4",
-        "description": "Кран полнопроходной наружний-наружний, рычаг 'IDEAL' itap",
-        "image": "/src/img/tap/ideal-m-m-lever.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "1",
-        "description": "Кран полнопроходной наружний-наружний, рычаг 'IDEAL' itap",
-        "image": "/src/img/tap/ideal-m-m-lever.jpg",
-        "price": "5,00"
-    },
-    {
-        "name": "1/2",
         "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
         "image": "/src/img/tap/ideal-f-m-lever.jpg",
         "price": "14,70"
