@@ -369,6 +369,7 @@ ul {
 html {
   font-size: 10px;
   font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
 }
 
 h1 {
@@ -547,16 +548,20 @@ h3 {
 }
 
 .header__nav {
-  flex-basis: 33%;
+  flex-basis: 45%;
 }
 @media (max-width: 768px) {
   .header__nav {
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
     position: absolute;
     right: 0;
     top: 0;
     background: #fff;
     height: 100vh;
     margin-right: -350px;
+    display: none;
   }
 }
 
@@ -565,6 +570,7 @@ h3 {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  display: block;
 }
 
 .header__nav_list {

@@ -6,6 +6,13 @@ const menu = () => {
         nav.classList.toggle('nav');
         hamburger.classList.toggle('hamburger_active');
     })
+
+    nav.addEventListener('click', (e) => {
+        if (e.target.classList.contains('header__nav_link')) {
+            nav.classList.remove('nav');
+            hamburger.classList.remove('hamburger_active');
+        };
+    })
 }
 
 menu();

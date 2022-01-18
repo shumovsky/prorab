@@ -68,19 +68,19 @@
         "name": "25",
         "description": "Заглушка полипропиленовая, серая",
         "image": "/src/img/polypropylene/plug.jpeg",
-        "price": "0,30"
+        "price": "0,35"
     },
     {
         "name": "32",
         "description": "Заглушка полипропиленовая, серая",
         "image": "/src/img/polypropylene/plug.jpeg",
-        "price": "0,35"
+        "price": "0,50"
     },
     {
         "name": "40",
         "description": "Заглушка полипропиленовая, серый",
         "image": "/src/img/polypropylene/plug.jpeg",
-        "price": "0,40"
+        "price": "0,85"
     },
     {
         "name": "20 х 45&deg;",
@@ -296,13 +296,13 @@
         "name": "20x3/4",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "0,00"
+        "price": "3,40"
     },
     {
         "name": "25x1/2",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "0,00"
+        "price": "3,00"
     },
     {
         "name": "25x3/4",
@@ -314,13 +314,19 @@
         "name": "25x1",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "0,00"
+        "price": "8,70"
+    },
+    {
+        "name": "32x1/2",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "7,50"
     },
     {
         "name": "32x3/4",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "0,00"
+        "price": "7,50"
     },
     {
         "name": "32x1",
