@@ -2,72 +2,84 @@
         "name": "1/2",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "1,60"
+        "price": "1,60",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "1,70"
+        "price": "1,70",
+        "character": ""
     },
     {
         "name": "1",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "1,90"
+        "price": "1,90",
+        "character": ""
     },
     {
         "name": "1' 1/4",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "2,20"
+        "price": "2,20",
+        "character": ""
     },
     {
         "name": "1' 1/2",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "2,50"
+        "price": "2,50",
+        "character": ""
     },
     {
         "name": "2",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "2,70"
+        "price": "2,70",
+        "character": ""
     },
     {
         "name": "2' 1/2",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "3,00"
+        "price": "3,00",
+        "character": ""
     },
     {
         "name": "3",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "3,70"
+        "price": "3,70",
+        "character": ""
     },
     {
         "name": "4",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "4,00"
+        "price": "4,00",
+        "character": ""
     },
     {
         "name": "М8х 10 х 80мм",
         "description": "Анкер с г-образным крюком",
         "image": "/src/img/krepez/ankerL.jpg",
-        "price": "5,00"
+        "price": "5,00",
+        "character": ""
     },
     {
         "name": "М10 х 12 х 130мм",
         "description": "Анкер с г-образным крюком",
         "image": "/src/img/krepez/ankerL.jpg",
-        "price": "5,00"
+        "price": "5,00",
+        "character": ""
     },
     {
         "name": "М6 х 80",
         "description": "Набор для крепления унитаза",
         "image": "/src/img/krepez/nabor-dlja-kreplenija-unitaza.jpg",
-        "price": "5,00"
+        "price": "5,00",
+        "character": ""
     }
 ]

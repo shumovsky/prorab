@@ -34,7 +34,12 @@
     padding: 15px 25px;
 }
 
+.card_img {
+    height: 100%;
+}
+
 .card__info {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -44,7 +49,8 @@
     margin-bottom: 5rem;
     border-radius: 3%;
     img {
-        width: 150px;
+        width: 250px;
+        padding: 15px 0;
     }
     @include media-mobile {
         flex-basis: 100%;

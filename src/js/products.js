@@ -8,7 +8,7 @@ const renderItems = (data) => {
         card.classList.add('card__info');
 
         card.innerHTML = `
-                        <div>
+                        <div class="card_img">
                         <img class="product__card_img" src="${image}" alt="" />
                         </div>
                         <div class="product__card_info">

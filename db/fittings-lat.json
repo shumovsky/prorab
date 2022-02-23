@@ -2,337 +2,393 @@
         "name": "1/2",
         "description": "Заглушка внутренняя",
         "image": "/src/img/fittings-lat/plug-v.jpg",
-        "price": "2,00"
+        "price": "2,00",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Заглушка внутренняя",
         "image": "/src/img/fittings-lat/plug-v.jpg",
-        "price": "2,70"
+        "price": "2,70",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Заглушка внутренняя",
         "image": "/src/img/fittings-lat/plug-v.jpg",
-        "price": "3,70"
+        "price": "3,70",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Заглушка нружняя",
         "image": "/src/img/fittings-lat/plug-n.jpeg",
-        "price": "2,20"
+        "price": "2,20",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Заглушка нружняя",
         "image": "/src/img/fittings-lat/plug-n.jpeg",
-        "price": "3,00"
+        "price": "3,00",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Заглушка нружняя",
         "image": "/src/img/fittings-lat/plug-n.jpeg",
-        "price": "3,90"
+        "price": "3,90",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Ниппель",
         "image": "/src/img/fittings-lat/nippel.jpg",
-        "price": "3,40"
+        "price": "3,40",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Ниппель",
         "image": "/src/img/fittings-lat/nippel.jpg",
-        "price": "4,20"
+        "price": "4,20",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Ниппель",
         "image": "/src/img/fittings-lat/nippel.jpg",
-        "price": "7,80"
+        "price": "7,80",
+        "character": ""
     },
     {
         "name": "1/2 x 3/8",
         "description": "Ниппель редукционный",
         "image": "/src/img/fittings-lat/nippel-red.jpg",
-        "price": "2,00"
+        "price": "2,00",
+        "character": ""
     },
     {
         "name": "3/4 x 1/2",
         "description": "Ниппель редукционный",
         "image": "/src/img/fittings-lat/nippel-red.jpg",
-        "price": "4,30"
+        "price": "4,30",
+        "character": ""
     },
     {
         "name": "1 x 1/2",
         "description": "Ниппель редукционный",
         "image": "/src/img/fittings-lat/nippel-red.jpg",
-        "price": "5,70"
+        "price": "5,70",
+        "character": ""
     },
     {
         "name": "1 x 3/4",
         "description": "Ниппель редукционный",
         "image": "/src/img/fittings-lat/nippel-red.jpg",
-        "price": "6,10"
+        "price": "6,10",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Муфта",
         "image": "/src/img/fittings-lat/mufta.jpg",
-        "price": "4,00"
+        "price": "4,00",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Муфта",
         "image": "/src/img/fittings-lat/mufta.jpg",
-        "price": "4,60"
+        "price": "4,60",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Муфта",
         "image": "/src/img/fittings-lat/mufta.jpg",
-        "price": "6,00"
+        "price": "6,00",
+        "character": ""
     },
     {
         "name": "1' 1/4",
         "description": "Муфта",
         "image": "/src/img/fittings-lat/mufta.jpg",
-        "price": "14,50"
+        "price": "14,50",
+        "character": ""
     },
     {
         "name": "3/4 х 1/2",
         "description": "Муфта редукционная",
         "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "4,30"
+        "price": "4,30",
+        "character": ""
     },
     {
         "name": "1 х 1/2",
         "description": "Муфта редукционная",
         "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "5,80"
+        "price": "5,80",
+        "character": ""
     },
     {
         "name": "1 х 3/4",
         "description": "Муфта редукционная",
         "image": "/src/img/fittings-lat/mufta-redcut.jpg",
-        "price": "5,90"
+        "price": "5,90",
+        "character": ""
     },
     {
         "name": "3/8 x 1/4",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "2,50"
+        "price": "2,50",
+        "character": ""
     },
     {
         "name": "1/2 x 1/4",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "2,20"
+        "price": "2,20",
+        "character": ""
     },
     {
         "name": "1/2 x 3/8",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "3,00"
+        "price": "3,00",
+        "character": ""
     },
     {
         "name": "3/4 x 1/2",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "3,00"
+        "price": "3,00",
+        "character": ""
     },
     {
         "name": "1 x 1/2",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "5,90"
+        "price": "5,90",
+        "character": ""
     },
     {
         "name": "1 x 3/4",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "5,70"
+        "price": "5,70",
+        "character": ""
     },
     {
         "name": "1' 1/4 x 1",
         "description": "Футорка",
         "image": "/src/img/fittings-lat/futrka.jpg",
-        "price": "11,50"
+        "price": "11,50",
+        "character": ""
     },
     {
         "name": "3/4 x 1/2",
         "description": "Переход внутренний - наружний",
         "image": "/src/img/fittings-lat/transition.jpg",
-        "price": "3,30"
+        "price": "3,30",
+        "character": ""
     },
     {
         "name": "1 x 1/2",
         "description": "Переход внутренний - наружний",
         "image": "/src/img/fittings-lat/transition.jpg",
-        "price": "5,70"
+        "price": "5,70",
+        "character": ""
     },
     {
         "name": "1 x 3/4",
         "description": "Переход внутренний - наружний",
         "image": "/src/img/fittings-lat/transition.jpg",
-        "price": "6,30"
+        "price": "6,30",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Колено внутреннее",
         "image": "/src/img/fittings-lat/knee-m-m.jpg",
-        "price": "5,90"
+        "price": "5,90",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Колено внутреннее",
         "image": "/src/img/fittings-lat/knee-m-m.jpg",
-        "price": "8,50"
+        "price": "8,50",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Колено внутреннее",
         "image": "/src/img/fittings-lat/knee-m-m.jpg",
-        "price": "11,00"
+        "price": "11,00",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Колено внутреннее - наружнее",
         "image": "/src/img/fittings-lat/knee-f-m.jpg",
-        "price": "7,00"
+        "price": "7,00",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Колено внутреннее - наружнее",
         "image": "/src/img/fittings-lat/knee-f-m.jpg",
-        "price": "10,00"
+        "price": "10,00",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Колено внутреннее - наружнее",
         "image": "/src/img/fittings-lat/knee-f-m.jpg",
-        "price": "13,50"
+        "price": "13,50",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Колено наружнее",
         "image": "/src/img/fittings-lat/knee-f-f.jpg",
-        "price": "6,50"
+        "price": "6,50",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Колено наружнее",
         "image": "/src/img/fittings-lat/knee-f-f.jpg",
-        "price": "9,50"
+        "price": "9,50",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Колено наружнее",
         "image": "/src/img/fittings-lat/knee-f-f.jpg",
-        "price": "12,70"
+        "price": "12,70",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Тройник внутренний",
         "image": "/src/img/fittings-lat/wye-v.jpg",
-        "price": "6,00"
+        "price": "6,00",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Тройник внутренний",
         "image": "/src/img/fittings-lat/wye-v.jpg",
-        "price": "9,20"
+        "price": "9,20",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Тройник внутренний",
         "image": "/src/img/fittings-lat/wye-v.jpg",
-        "price": "13,50"
+        "price": "13,50",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Тройник наружний",
         "image": "/src/img/fittings-lat/wye-n.jpeg",
-        "price": "8,00"
+        "price": "8,00",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Тройник наружний",
         "image": "/src/img/fittings-lat/wye-n.jpeg",
-        "price": "11,00"
+        "price": "11,00",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Тройник наружний",
         "image": "/src/img/fittings-lat/wye-n.jpeg",
-        "price": "14,90"
+        "price": "14,90",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "16,50"
+        "price": "16,50",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "22,0"
+        "price": "22,0",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "30,50"
+        "price": "30,50",
+        "character": ""
     },
     {
         "name": "1' 1/4",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "35,00"
+        "price": "35,00",
+        "character": ""
     },
     {
         "name": "1' 1/4",
         "description": "Обратный клапан",
         "image": "/src/img/fittings-lat/obr-clapan.jpg",
-        "price": "45,00"
+        "price": "45,00",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Американка внутренняя - наружняя",
         "image": "/src/img/fittings-lat/amer-f-m.jpeg",
-        "price": "7,25"
+        "price": "7,25",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Американка внутренняя - наружняя",
         "image": "/src/img/fittings-lat/amer-f-m.jpeg",
-        "price": "11,00"
+        "price": "11,00",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Американка внутренняя - наружняя",
         "image": "/src/img/fittings-lat/amer-f-m.jpeg",
-        "price": "17,50"
+        "price": "17,50",
+        "character": ""
     },
     {
         "name": "1/2",
         "description": "Фильтр грубой очистки",
         "image": "/src/img/fittings-lat/filter.jpg",
-        "price": "10,50"
+        "price": "10,50",
+        "character": ""
     },
     {
         "name": "3/4",
         "description": "Фильтр грубой очистки",
         "image": "/src/img/fittings-lat/filter.jpg",
-        "price": "14,50"
+        "price": "14,50",
+        "character": ""
     },
     {
         "name": "1",
         "description": "Фильтр грубой очистки",
         "image": "/src/img/fittings-lat/filter.jpg",
-        "price": "22,50"
+        "price": "22,50",
+        "character": ""
     }
 
 ]

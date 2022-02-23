@@ -73,13 +73,13 @@
         "description": "Большой выбор погружных, центробежных, скваженных насосов.",
         "image": "./src/img/product/pump.png",
         "alt": "Насос",
-        "products": ""
+        "products": "pump.json"
     },
     {
         "name": "Смесиели",
         "description": "Смеситили для кухни, умывальника и ванных комнат.",
         "image": "./src/img/product/mixes.jpg",
-        "alt": "Насос",
+        "alt": "Смесители",
         "products": "mixes.json"
     }
 ]

@@ -2,204 +2,238 @@
         "name": "20см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "7,00"
+        "price": "7,00",
+        "character": ""
     },
     {
         "name": "30см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "7,50"
+        "price": "7,50",
+        "character": ""
     },
     {
         "name": "40см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "7,60"
+        "price": "7,60",
+        "character": ""
     },
     {
         "name": "50см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "8,20"
+        "price": "8,20",
+        "character": ""
     },
     {
         "name": "60см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "8,80"
+        "price": "8,80",
+        "character": ""
     },
     {
         "name": "80см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "9,70"
+        "price": "9,70",
+        "character": ""
     },
     {
         "name": "100см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "10,70"
+        "price": "10,70",
+        "character": ""
     },
     {
         "name": "120см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "12,70"
+        "price": "12,70",
+        "character": ""
     },
     {
         "name": "150см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "13,50"
+        "price": "13,50",
+        "character": ""
     },
     {
         "name": "200см",
         "description": "Гибкая подводка гайка - гайка Tucai",
         "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
-        "price": "16,50"
+        "price": "16,50",
+        "character": ""
     },
     {
         "name": "20см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "7,00"
+        "price": "7,00",
+        "character": ""
     },
     {
         "name": "30см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "7,20"
+        "price": "7,20",
+        "character": ""
     },
     {
         "name": "40см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "7,60"
+        "price": "7,60",
+        "character": ""
     },
     {
         "name": "50см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "8,20"
+        "price": "8,20",
+        "character": ""
     },
     {
         "name": "60см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "8,80"
+        "price": "8,80",
+        "character": ""
     },
     {
         "name": "80см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "9,70"
+        "price": "9,70",
+        "character": ""
     },
     {
         "name": "100см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "10,70"
+        "price": "10,70",
+        "character": ""
     },
     {
         "name": "120см",
         "description": "Гибкая подводка в-н Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "12,70"
+        "price": "12,70",
+        "character": ""
     },
     {
         "name": "150см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "13,50"
+        "price": "13,50",
+        "character": ""
     },
     {
         "name": "200см",
         "description": "Гибкая подводка гайка - штуцер Tucai",
         "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
-        "price": "16,50"
+        "price": "16,50",
+        "character": ""
     },
     {
         "name": "40см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "7,60"
+        "price": "7,60",
+        "character": ""
     },
     {
         "name": "50см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "8,20"
+        "price": "8,20",
+        "character": ""
     },
     {
         "name": "60см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "8,80"
+        "price": "8,80",
+        "character": ""
     },
     {
         "name": "80см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "9,70"
+        "price": "9,70",
+        "character": ""
     },
     {
         "name": "100см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "10,70"
+        "price": "10,70",
+        "character": ""
     },
     {
         "name": "120см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "12,70"
+        "price": "12,70",
+        "character": ""
     },
     {
         "name": "150см",
         "description": "Гибкая подводка гайка - иголка короткая Tucai",
         "image": "/src/img/flexible_eyeliner/needle-short.png",
-        "price": "13,50"
+        "price": "13,50",
+        "character": ""
     },
     {
         "name": "40см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "7,60"
+        "price": "7,60",
+        "character": ""
     },
     {
         "name": "50см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "8,20"
+        "price": "8,20",
+        "character": ""
     },
     {
         "name": "60см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "8,80"
+        "price": "8,80",
+        "character": ""
     },
     {
         "name": "80см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "9,70"
+        "price": "9,70",
+        "character": ""
     },
     {
         "name": "100см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "10,70"
+        "price": "10,70",
+        "character": ""
     },
     {
         "name": "120см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "12,70"
+        "price": "12,70",
+        "character": ""
     }, {
         "name": "150см",
         "description": "Гибкая подводка гайка - иголка длинная Tucai",
         "image": "/src/img/flexible_eyeliner/needle-long.png",
-        "price": "13,50"
+        "price": "13,50",
+        "character": ""
     }
 
 ]
