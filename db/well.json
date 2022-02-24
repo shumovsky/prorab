@@ -1,0 +1,85 @@
+[{
+        "name": "Italtecnica РМ/5G без шкалы",
+        "description": "Реле давления",
+        "image": "/src/img/well/italtecnica.jpg",
+        "price": "29,00"
+    },
+    {
+        "name": "BO PC 9",
+        "description": "Реле давления",
+        "image": "/src/img/well/IBO-PC9.webp",
+        "price": "19,00"
+    },
+    {
+        "name": "MAXPUMP PS-05A",
+        "description": "Блок автоматики",
+        "image": "/src/img/well/MAXIPUMP.jpg",
+        "price": "23,00"
+    },
+    {
+        "name": "Italtecnica PM5/3W",
+        "description": "Блок автоматики",
+        "image": "/src/img/well/italtecnicaPM5-3W.jpg",
+        "price": "46,00"
+    },
+    {
+        "name": "ОГС 113 — 127/25",
+        "description": " Оголовок",
+        "image": "/src/img/well/OGS.png",
+        "price": "64,70"
+    },
+    {
+        "name": "ОГС 113 — 127/32",
+        "description": "Оголовок",
+        "image": "/src/img/well/OGS.png",
+        "price": "64,70"
+    },
+    {
+        "name": "ОСП 90 — 110/25",
+        "description": "Оголовок",
+        "image": "/src/img/well/OCP90.jpg",
+        "price": "112,70"
+    },
+    {
+        "name": "ОСП 90 — 110/32",
+        "description": "Оголовок",
+        "image": "/src/img/well/OCP90.jpg",
+        "price": "112,70"
+    },
+    {
+        "name": "MAXPUMP 60см",
+        "description": "Гибкая подводка",
+        "image": "/src/img/well/flex.webp",
+        "price": "20,70"
+    },
+    {
+        "name": "IBO 1'",
+        "description": "Адаптер скважинный",
+        "image": "/src/img/well/adapter.jpg",
+        "price": "118,45"
+    },
+    {
+        "name": "3 мм",
+        "description": "Трос из нержавеющей стали",
+        "image": "/src/img/well/tros.jpg",
+        "price": "1,75"
+    },
+    {
+        "name": "IBO ПВХ 1' (25мм)",
+        "description": "Шланг рукав",
+        "image": "/src/img/well/shlang.webp",
+        "price": "1,61"
+    },
+    {
+        "name": "IBO ПВХ 1,25' (32мм)",
+        "description": "Шланг рукав",
+        "image": "/src/img/well/shlang.webp",
+        "price": "1,80"
+    },
+    {
+        "name": "IBO ПВХ 2' (50мм)",
+        "description": "Шланг рукав",
+        "image": "/src/img/well/shlang.webp",
+        "price": "3,36"
+    }
+]

@@ -3,6 +3,7 @@ const cardsInfo = document.querySelector('.products__card_info');
 
 const renderItems = (data) => {
     data.forEach(({ name, description, price, image }) => {
+        console.log(data);
         const card = document.createElement('div');
 
         card.classList.add('card__info');

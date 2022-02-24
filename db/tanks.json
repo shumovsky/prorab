@@ -1,0 +1,91 @@
+[{
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H/V-2л",
+        "image": "/src/img/tanks/MAXPUMP-H-V-2.webp",
+        "price": "16,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-24л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "56,10"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-50л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "94,90"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-80л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "166,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-100л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "236,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP V-50л",
+        "image": "/src/img/tanks/MAXPUMP V.png",
+        "price": "119,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP V-80л",
+        "image": "/src/img/tanks/MAXPUMP V.png",
+        "price": "186,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP V-100л",
+        "image": "/src/img/tanks/MAXPUMP V.png",
+        "price": "249,00"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 8 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-8.png",
+        "price": "37,50"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 12 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-12.webp",
+        "price": "51,00"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 19 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-19-24.jpg",
+        "price": "56,50"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 24 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-19-24.jpg",
+        "price": "60,50"
+    },
+    {
+        "name": "Мембрана для бака",
+        "description": "MAXPUMP 24л",
+        "image": "/src/img/tanks/membrana.jpg",
+        "price": "14,00"
+    },
+    {
+        "name": "Мембрана для бака",
+        "description": "MAXPUMP 50л",
+        "image": "/src/img/tanks/membrana.jpg",
+        "price": "36,00"
+    },
+    {
+        "name": "Мембрана для бака",
+        "description": "MAXPUMP 80-100л",
+        "image": "/src/img/tanks/membrana80.webp",
+        "price": "72,10"
+    }
+]
