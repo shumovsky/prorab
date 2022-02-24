@@ -55,6 +55,13 @@
         "products": ""
     },
     {
+        "name": "Водосливная арматура, сифоны",
+        "description": "Клапана впускные, гофра, арматура для бочка, сифоны",
+        "image": "./src/img/product/Shut-off-valves.jpg",
+        "alt": "Водосливная арматура, сифоны",
+        "products": "shut-off-valves.json"
+    },
+    {
         "name": "Комплектующие для насосов и обвязки скважин",
         "description": "Автоматика для насосов, манометры, скважинные оголовки, адаптера.",
         "image": "./src/img/product/tanks-acses.jpg",

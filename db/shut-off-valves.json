@@ -1,0 +1,43 @@
+[{
+        "name": "ИнкоЭр (И - Клапан плоскй -004)",
+        "description": "Клапан плоский",
+        "image": "/src/img/Shut-off valves/klapan.jpg",
+        "price": "1,70"
+    },
+    {
+        "name": "Инкоэр И - БпрН Р",
+        "description": "Клапан впускной боковой",
+        "image": "/src/img/Shut-off valves/947224.jpg",
+        "price": "7,30"
+    },
+    {
+        "name": "Инкоэр И - НпрНРФ Р",
+        "description": "Клапан впускной нижний",
+        "image": "/src/img/Shut-off valves/947225-800x800.jpg",
+        "price": "7,30"
+    },
+    {
+        "name": "Орио L=220-520 мм С-990",
+        "description": "Гофра для унитаза",
+        "image": "/src/img/Shut-off valves/gofra-orio-c-990-2.jpg",
+        "price": "10,00"
+    },
+    {
+        "name": "Bonomini, 220/570 мм",
+        "description": "Гофра для унитаза",
+        "image": "/src/img/Shut-off valves/504x504-_upl5f517ae539e513.46190574.webp",
+        "price": "21,50"
+    },
+    {
+        "name": "Инкоэр, И - СБ1-А",
+        "description": "Клапан спускной однокнопочный, хром",
+        "image": "/src/img/Shut-off valves/947226.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "Инкоэр, И - СБа-БпрН-Б-М Р",
+        "description": "Арматура, белый шток, бок.подводка",
+        "image": "/src/img/Shut-off valves/Х9001.jpg",
+        "price": "16,00"
+    }
+]
