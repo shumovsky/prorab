@@ -12,13 +12,19 @@
 .logo {
     flex-basis: 60%;
     padding: 15px 0;
+    @include media-laptop {
+        flex-basis: 30%;
+    }
 }
 
 .header__logo {
     img {
         width: 25%;
+        @include media-laptop {
+            width: 70%;
+        }
         @include media-mobile {
-            width: 60%;
+            width: 90%;
         }
     }
 }
@@ -26,5 +32,28 @@
 .header__img {
     @include media-mobile {
         display: none;
+    }
+}
+
+.header__contact {
+    display: none;
+    color: #2776af;
+    align-items: center;
+    @include media-laptop {
+        display: flex;
+        flex-basis: 70%;
+        font-size: 2.8rem;
+        img {
+            width: 4rem;
+            margin-right: 1.5rem;
+        }
+    }
+    @include media-mobile {
+        display: flex;
+        font-size: 1.8rem;
+        img {
+            width: 2rem;
+            margin-right: 1rem;
+        }
     }
 }
