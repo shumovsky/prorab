@@ -20,6 +20,7 @@ const renderItems = (data) => {
         `
         a.addEventListener('click', (e) => {
             e.preventDefault();
+            console.log(e);
 
             const link = a.dataset.products;
 

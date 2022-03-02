@@ -3,14 +3,22 @@
         "description": "ВИНТОВОЙ НАСОС",
         "image": "/src/img/pump/MAXPUMO-miniVINT.webp",
         "price": "204,00",
-        "character": "Характеристики"
+        "character": "Характеристики",
+        "el": "220~240",
+        "d": "2",
+        "volt": "370",
+        "power": "50"
     },
     {
         "name": "Скважинный насос MAXPUMP midiVINT",
         "description": "ВИНТОВОЙ НАСОС",
         "image": "/src/img/pump/MAXPUMO-miniVINT.webp",
         "price": "235,00",
-        "character": "Характеристики"
+        "character": "Характеристики",
+        "el": "220~240",
+        "d": "2",
+        "volt": "370",
+        "power": "50"
     },
     {
         "name": "Скважинный насос MAXPUMP maxiVINT",

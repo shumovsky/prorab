@@ -40,6 +40,7 @@
 
 .card__info {
     position: relative;
+    overflow: hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -71,4 +72,54 @@
 .product__card_price {
     @include font(3rem, 1, normal);
     color: red;
+}
+
+.character {
+    position: absolute;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    bottom: -484px;
+    transition: .4s;
+}
+
+.active {
+    position: absolute;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+    bottom: 0;
+    transition: .4s;
+}
+
+.character_title {
+    font-size: 2.8rem;
+}
+
+.character__list {
+    text-align: left;
+    padding-left: 2rem;
+    font-size: 2rem;
+}
+
+.character__list_item {
+    margin-bottom: 1rem;
+}
+
+.character_button {
+    padding: 15px;
+    position: absolute;
+    right: 5%;
+    top: 3%;
+    z-index: 15;
+    cursor: pointer;
+    background: url(./../img/icons/down.png);
+    background-size: cover;
+    border: none;
+    transition: .4s;
+}
+
+.cgange_btn {
+    background: url(./../img/icons/up.png);
+    background-size: cover;
 }
