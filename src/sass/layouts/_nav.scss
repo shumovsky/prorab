@@ -1,5 +1,5 @@
 .header__nav {
-    flex-basis: 50%;
+    flex-basis: 60%;
     @include media-tablet {
         -webkit-transition: all 0.5s ease-in-out;
         -o-transition: all 0.5s ease-in-out;
@@ -25,7 +25,7 @@
 .header__nav_list {
     display: flex;
     justify-content: space-between;
-    @include font(2.4rem);
+    @include font(2.6rem);
     padding: 0;
     a {
         color: $color-link;

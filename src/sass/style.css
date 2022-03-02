@@ -584,7 +584,7 @@ h3 {
 }
 
 .header__nav {
-  flex-basis: 50%;
+  flex-basis: 60%;
 }
 @media (max-width: 768px) {
   .header__nav {
@@ -612,10 +612,10 @@ h3 {
 .header__nav_list {
   display: flex;
   justify-content: space-between;
-  font-size: 2.4rem;
+  font-size: 2.6rem;
   font-style: normal;
   font-weight: bold;
-  line-height: 2.4rem;
+  line-height: 2.6rem;
   padding: 0;
 }
 .header__nav_list a {
