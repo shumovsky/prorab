@@ -4,7 +4,7 @@ const cardsInfo = document.querySelector('.products__card_info');
 
 const renderItems = (data) => {
     if (localStorage.getItem('products') == 'pump.json') {
-        data.forEach(({ name, description, price, image, character, el, power, volt, d }) => {
+        data.forEach(({ name, description, price, image, character, el, power, volt, d, height, consumption }) => {
             const card = document.createElement('div');
 
             card.classList.add('card__info');
@@ -23,10 +23,12 @@ const renderItems = (data) => {
                             <div class="character">
                             <p class="character_title">${character}</p>
                                 <ul class="character__list">
-                                    <li class="character__list_item">Напряжение сети: ${el}В</li>
-                                    <li class="character__list_item">Частота: ${power}ГЦ</li>
-                                    <li class="character__list_item">Потребляемая мощность: ${volt}</li>
-                                    <li class="character__list_item">Диаметр: ${d}"</li>
+                                    <li class="character__list_item">${volt}</li>
+                                    <li class="character__list_item">${el}</li>
+                                    <li class="character__list_item">${power}</li>
+                                    <li class="character__list_item">${height}</li>
+                                    <li class="character__list_item">${consumption}</li>
+                                    <li class="character__list_item">${d}</li>
                                     <li class="character__list_item"></li>
                                 </ul>
                             </div>
