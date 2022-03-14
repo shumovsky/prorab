@@ -6,7 +6,11 @@ const menu = () => {
     hamburger.addEventListener('click', () => {
         nav.classList.toggle('nav');
         hamburger.classList.toggle('hamburger_active');
-        header.classList.toggle('header_visible')
+        if (hamburger.classList.contains('hamburger_active')) {
+            header.classList.add('header_visible')
+        } else {
+            header.classList.remove('header_visible')
+        }
     })
 
     nav.addEventListener('click', (e) => {
