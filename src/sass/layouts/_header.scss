@@ -1,12 +1,23 @@
 .header {
     background: $color-background;
-    overflow: hidden;
+    @include media-laptop {
+        position: sticky;
+        top: 0;
+    }
 }
 
 .header__wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    @include media-laptop {
+        position: relative;
+        overflow: hidden;
+    }
+}
+
+.header_visible {
+    overflow: visible;
 }
 
 .logo {
