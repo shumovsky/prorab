@@ -1,9 +1,9 @@
 .header {
     background: $color-background;
-    @include media-laptop {
-        position: sticky;
-        top: 0;
-    }
+    // @include media-laptop {
+    //     position: sticky;
+    //     top: 0;
+    // }
 }
 
 .header__wrapper {

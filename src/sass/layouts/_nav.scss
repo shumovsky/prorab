@@ -19,6 +19,7 @@
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     display: block;
+    z-index: 5;
 }
 
 .header__nav_list {

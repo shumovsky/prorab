@@ -8,7 +8,7 @@ const menu = () => {
         hamburger.classList.toggle('hamburger_active');
         if (hamburger.classList.contains('hamburger_active')) {
             header.classList.add('header_visible')
-        } else {
+        } else if (!hamburger.classList.contains('hamburger_active')) {
             header.classList.remove('header_visible')
         }
     })
