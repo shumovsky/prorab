@@ -11,6 +11,12 @@
     }
 }
 
+@mixin media-laptop-landscape {
+    @media (orientation: landscape) {
+        @content;
+    }
+}
+
 @mixin media-tablet {
     @media (max-width: $tablet-width) {
         @content;

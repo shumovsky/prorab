@@ -64,4 +64,7 @@
             margin-right: 1rem;
         }
     }
+    @include media-laptop {
+        flex-basis: 43%;
+    }
 }
