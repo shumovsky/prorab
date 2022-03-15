@@ -5,6 +5,9 @@
         top: 0;
         z-index: 15;
     }
+    @include media-laptop-landscape {
+        position: relative;
+    }
 }
 
 .header__wrapper {
@@ -59,12 +62,13 @@
     @include media-mobile {
         display: flex;
         font-size: 1.8rem;
+        flex-basis: 70%;
         img {
             width: 2rem;
             margin-right: 1rem;
         }
     }
-    @include media-laptop {
+    @include media-laptop-landscape {
         flex-basis: 43%;
     }
 }

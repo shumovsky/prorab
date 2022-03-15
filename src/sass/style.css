@@ -431,6 +431,11 @@ h3 {
     z-index: 15;
   }
 }
+@media (orientation: landscape) {
+  .header {
+    position: relative;
+  }
+}
 
 .header__wrapper {
   display: flex;
@@ -492,13 +497,14 @@ h3 {
   .header__contact {
     display: flex;
     font-size: 1.8rem;
+    flex-basis: 70%;
   }
   .header__contact img {
     width: 2rem;
     margin-right: 1rem;
   }
 }
-@media (max-width: 1197px) {
+@media (orientation: landscape) {
   .header__contact {
     flex-basis: 43%;
   }
