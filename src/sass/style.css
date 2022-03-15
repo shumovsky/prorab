@@ -431,7 +431,7 @@ h3 {
     z-index: 15;
   }
 }
-@media (orientation: landscape) {
+@media (max-width: 1197px) and (orientation: landscape) {
   .header {
     position: relative;
   }
@@ -504,7 +504,7 @@ h3 {
     margin-right: 1rem;
   }
 }
-@media (orientation: landscape) {
+@media (max-width: 1197px) and (orientation: landscape) {
   .header__contact {
     flex-basis: 43%;
   }
@@ -621,7 +621,7 @@ h3 {
     box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2) inset;
   }
 }
-@media (orientation: landscape) {
+@media (max-width: 1197px) and (orientation: landscape) {
   .header__nav {
     flex-basis: 25%;
     box-shadow: none;
@@ -658,7 +658,7 @@ h3 {
     padding: 10rem 7rem 7rem 3rem;
   }
 }
-@media (orientation: landscape) {
+@media (max-width: 1197px) and (orientation: landscape) {
   .header__nav_list {
     padding: 1rem 0;
   }
@@ -672,7 +672,7 @@ h3 {
     line-height: 5rem;
   }
 }
-@media (orientation: landscape) {
+@media (max-width: 1197px) and (orientation: landscape) {
   .header__nav_list-item {
     padding: 0.7rem 0;
   }

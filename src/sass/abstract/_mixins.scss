@@ -12,7 +12,7 @@
 }
 
 @mixin media-laptop-landscape {
-    @media (orientation: landscape) {
+    @media (max-width: $content-width) and (orientation: landscape) {
         @content;
     }
 }
