@@ -9,7 +9,7 @@
         "name": "3/4",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "1,70",
+        "price": "1,80",
         "character": ""
     },
     {
@@ -23,7 +23,7 @@
         "name": "1' 1/4",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "2,20",
+        "price": "2,30",
         "character": ""
     },
     {
@@ -58,7 +58,7 @@
         "name": "4",
         "description": "КТР",
         "image": "/src/img/krepez/homut.jpg",
-        "price": "4,00",
+        "price": "4,50",
         "character": ""
     },
     {
@@ -79,7 +79,7 @@
         "name": "М6 х 80",
         "description": "Набор для крепления унитаза",
         "image": "/src/img/krepez/nabor-dlja-kreplenija-unitaza.jpg",
-        "price": "5,00",
+        "price": "2,20",
         "character": ""
     }
 ]

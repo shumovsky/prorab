@@ -74,7 +74,7 @@
         "name": "32",
         "description": "Заглушка полипропиленовая, серая",
         "image": "/src/img/polypropylene/plug.jpeg",
-        "price": "0,50"
+        "price": "0,55"
     },
     {
         "name": "40",
@@ -86,49 +86,49 @@
         "name": "20 х 45&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-45.jpg",
-        "price": "0,30"
+        "price": "0,40"
     },
     {
         "name": "20 х 90&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-90.jpg",
-        "price": "5,00"
+        "price": "0,40"
     },
     {
         "name": "25 х 45&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-45.jpg",
-        "price": "0,50"
+        "price": "0,60"
     },
     {
         "name": "25 х 90&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-90.jpg",
-        "price": "0,50"
+        "price": "0,60"
     },
     {
         "name": "35 х 45&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-45.jpg",
-        "price": "1,00"
+        "price": "1,20"
     },
     {
         "name": "32 х 90&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-90.jpg",
-        "price": "1,00"
+        "price": "1,20"
     },
     {
         "name": "40 х 45&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-45.jpg",
-        "price": "1,50"
+        "price": "1,70"
     },
     {
         "name": "40 х 90&deg;",
         "description": "Угол полипропиленовый, серый",
         "image": "/src/img/polypropylene/injection-90.jpg",
-        "price": "1,50"
+        "price": "1,70"
     },
     {
         "name": "50 х 45&deg;",
@@ -146,25 +146,25 @@
         "name": "20",
         "description": "Муфта полипропиленовая, серая",
         "image": "/src/img/polypropylene/mufta.jpg",
-        "price": "0,30"
+        "price": "0,35"
     },
     {
         "name": "25",
         "description": "Муфта полипропиленовая, серая",
         "image": "/src/img/polypropylene/mufta.jpg",
-        "price": "0,35"
+        "price": "0,50"
     },
     {
         "name": "32",
         "description": "Муфта полипропиленовая, серая",
         "image": "/src/img/polypropylene/mufta.jpg",
-        "price": "0,70"
+        "price": "0,80"
     },
     {
         "name": "40",
         "description": "Муфта полипропиленовая, серая",
         "image": "/src/img/polypropylene/mufta.jpg",
-        "price": "1,10"
+        "price": "1,30"
     },
     {
         "name": "20/25",
@@ -173,10 +173,16 @@
         "price": "0,35"
     },
     {
+        "name": "32/20",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "0,65"
+    },
+    {
         "name": "32/25",
         "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
         "image": "/src/img/polypropylene/mufta-reduction.jpg",
-        "price": "0,60"
+        "price": "0,65"
     },
     {
         "name": "40/20",
@@ -206,7 +212,7 @@
         "name": "32/25",
         "description": "Муфта редукционная вн.- нар. полипропиленовая, серая",
         "image": "/src/img/polypropylene/mufta-red2.jpg",
-        "price": "0,60"
+        "price": "0,65"
     },
     {
         "name": "40/32",
@@ -218,49 +224,49 @@
         "name": "20",
         "description": "Тройник полипропиленовый, серый",
         "image": "/src/img/polypropylene/trk.jpg",
-        "price": "0,40"
+        "price": "0,50"
     },
     {
         "name": "25",
         "description": "Тройник полипропиленовый, серый",
         "image": "/src/img/polypropylene/trk.jpg",
-        "price": "0,60"
+        "price": "0,80"
     },
     {
         "name": "32",
         "description": "Тройник полипропиленовый, серый",
         "image": "/src/img/polypropylene/trk.jpg",
-        "price": "1,00"
+        "price": "1,60"
     },
     {
         "name": "40",
         "description": "Тройник полипропиленовый, серый",
         "image": "/src/img/polypropylene/trk.jpg",
-        "price": "2,90"
+        "price": "3,40"
     },
     {
         "name": "50",
         "description": "Тройник полипропиленовый, серый",
         "image": "/src/img/polypropylene/trk.jpg",
-        "price": "4,50"
+        "price": "5,50"
     },
     {
         "name": "25x20x25",
         "description": "Тройник редукционный полипропиленовый, серый",
         "image": "/src/img/polypropylene/25x20x25.jpg",
-        "price": "0,80"
+        "price": "0,85"
     },
     {
         "name": "32x20x32",
         "description": "Тройник редукционный полипропиленовый, серый",
         "image": "/src/img/polypropylene/25x20x25.jpg",
-        "price": "1,30"
+        "price": "1,40"
     },
     {
         "name": "32x25x32",
         "description": "Тройник редукционный полипропиленовый, серый",
         "image": "/src/img/polypropylene/25x20x25.jpg",
-        "price": "1,30"
+        "price": "1,40"
     },
     {
         "name": "40x20x40",
@@ -290,25 +296,25 @@
         "name": "20x1/2",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "2,70"
+        "price": "3,40"
     },
     {
         "name": "20x3/4",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "3,40"
+        "price": "5,50"
     },
     {
         "name": "25x1/2",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "3,00"
+        "price": "3,80"
     },
     {
         "name": "25x3/4",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "4,70"
+        "price": "5,20"
     },
     {
         "name": "25x1",
@@ -320,13 +326,13 @@
         "name": "32x1/2",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "7,50"
+        "price": "8,80"
     },
     {
         "name": "32x3/4",
         "description": "Ниппель полипропиленовый, наружняя резьба, серый",
         "image": "/src/img/polypropylene/nipelPP.jpg",
-        "price": "7,50"
+        "price": "9,80"
     },
     {
         "name": "32x1",
