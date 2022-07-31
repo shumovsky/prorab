@@ -7,7 +7,7 @@
     },
     {
         "name": "ФИТИНГИ",
-        "description": "Фитинги для черных и цветных металлов, внутенней и внешней канализации.",
+        "description": "Фитинги для черных и цветных металлов.",
         "image": "./src/img/product/fitting-min.png",
         "alt": "Фитинги латунные",
         "products": "fittings-lat.json"
@@ -52,7 +52,7 @@
         "description": "Биметалические и алюминевые радиаторы. Широкий выбор типоразмеров и комплектующих.",
         "image": "./src/img/product/radiators.png",
         "alt": "Радиаторы",
-        "products": ""
+        "products": "radiators.json"
     },
     {
         "name": "Водосливная арматура, сифоны",
@@ -95,5 +95,13 @@
         "image": "./src/img/product/mixes.jpg",
         "alt": "Смесители",
         "products": "mixes.json"
+    },
+    {
+        "name": "Водопровод",
+        "description": "Трубы водопроводные и фитинги",
+        "image": "./src/img/product/water_pipes.jpg",
+        "alt": "Смесители",
+        "products": "water-pipes.json"
     }
+
 ]

@@ -389,6 +389,103 @@
         "image": "/src/img/fittings-lat/filter.jpg",
         "price": "22,50",
         "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Муфта обжимная AQ Gebo DN15 (19.7-21.8 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная AQ Gebo DN20 (24.6-27.3 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная AQ Gebo DN20 (24.6-27.3 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Муфта обжимная AQ Gebo DN25 (31.4-34.2 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/4",
+        "description": "Муфта обжимная AQ Gebo DN32 (40.0-42.9 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/2",
+        "description": "Муфта обжимная AQ Gebo DN40 (47.9-51.5 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "2",
+        "description": "Муфта обжимная AQ Gebo DN40 59.7-63.6 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Муфта обжимная QI Gebo DN15 (19.7-21.8 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная QI Gebo DN20 (24.6-27.3 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная QI Gebo DN20 (24.6-27.3 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Муфта обжимная QI Gebo DN25 (31.4-34.2 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/4",
+        "description": "Муфта обжимная QI Gebo DN32 (40.0-42.9 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/2",
+        "description": "Муфта обжимная QI Gebo DN40 (47.9-51.5 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "2 '",
+        "description": "Муфта обжимная QI Gebo DN40 59.7-63.6 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
     }
-
 ]

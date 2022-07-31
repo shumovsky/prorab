@@ -1,0 +1,22 @@
+[{
+        "name": "Радиатор Аллюминевый",
+        "description": "",
+        "image": "/src/img/radiators/radiator.jpg",
+        "price": "0,00",
+        "character": ""
+    },
+    {
+        "name": "Радиатор Аллюминевый",
+        "description": "",
+        "image": "/src/img/radiators/radiator.jpg",
+        "price": "0,00",
+        "character": ""
+    },
+    {
+        "name": "Кран радиаторный угловой",
+        "description": "КТР",
+        "image": "/src/img/radiators/uglovoy.jpg",
+        "price": "0,00",
+        "character": ""
+    }
+]

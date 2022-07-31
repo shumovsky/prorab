@@ -1,0 +1,792 @@
+[{
+        "name": "&Oslash; 20",
+        "description": "Труба водопроводная",
+        "image": "/src/img/product/water_pipes.jpg",
+        "price": "",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Труба водопроводная",
+        "image": "/src/img/product/water_pipes.jpg",
+        "price": "",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Труба водопроводная",
+        "image": "/src/img/product/water_pipes.jpg",
+        "price": "",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "4,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 x 25",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 x 32",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 x 32",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 x 40",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "9,80",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 x 40",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "10,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 x 50",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "14,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "4,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "17,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "4,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "14,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 25 х 20",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 20 х 25",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 20 х 32",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 25 х 32",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "8,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 25 х 40",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "12,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 32 х 40",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "2,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "3,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/4'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "8,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "9,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "16,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "25,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "2,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "3,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/4'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "8,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "16,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Колено с креплением, внутренняя резьба",
+        "image": "/src/img/water/corner_krep.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Колено с креплением, внутренняя резьба",
+        "image": "/src/img/water/corner_krep.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "2,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "9,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/4'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "2,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "9,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "4,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "6,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "4,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "5,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 75 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "10,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 75 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "12,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 90 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "12,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 90 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "14,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 90 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "14,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 110 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "17,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 110 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "17,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 125 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "24,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 125 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "24,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 125 х 1 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "24,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 160 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "63,50",
+        "character": ""
+    }
+]
