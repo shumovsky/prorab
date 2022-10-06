@@ -19,11 +19,14 @@
     <script src="./src/js/products.js" defer></script>
     <script src="./src/js/hamburger.js" defer></script>
     <script src="./src/js/scroll.js" defer></script>
+    <script src="./src/js/search.js" defer></script>
+    <script src="./src/js/loader.js " defer></script>
     <title>Магазин сантехники</title>
 </head>
 
 <body>
     <header class="header">
+        <div class="load"><span class="loader"></span></div>
         <div class="header__wrapper wrapper">
             <h1>Магазин инженерной сантехники в г. Боисов</h1>
             <div class="logo">
@@ -53,6 +56,12 @@
                 <span class="line"></span>
                 <span class="line"></span>
                 <span class="line"></span>
+            </div>
+            <div class="form-control">
+                <input type="search" class="form-control" placeholder="Поиск..." aria-label="Recipient's username" aria-describedby="button-addon2">
+                <button class="btn btn-outline-secondary" type="button" id="button-addon2">
+                    <img src="src/img/icon-search.png" alt="search">
+                </button>
             </div>
         </div>
     </header>

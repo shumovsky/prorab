@@ -1,0 +1,27 @@
+.form-control {
+    display: flex;
+}
+
+.form-control {
+    @include font(2rem);
+    padding-left: 8px;
+    border-radius: 1.2rem;
+    border-color: #2776af;
+    outline-color: #ffeee1;
+    @include media-laptop {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+.btn-outline-secondary {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: transparent;
+    img {
+        width: 35px;
+        height: auto;
+    }
+}

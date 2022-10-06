@@ -1,6 +1,11 @@
 .header__nav {
-    flex-basis: 60%;
+    flex-basis: 52%;
+    @include media-laptop {
+        flex-basis: 30%;
+    }
     @include media-tablet {
+        width: 100%;
+        text-align: center;
         -webkit-transition: all 0.5s ease-in-out;
         -o-transition: all 0.5s ease-in-out;
         transition: all 0.5s ease-in-out;
@@ -41,7 +46,7 @@
     }
     @include media-laptop {
         flex-direction: column;
-        padding: 10rem 7rem 7rem 3rem;
+        padding: 3rem 5rem 3rem 3rem;
     }
     @include media-laptop-landscape {
         padding: 1rem 0;

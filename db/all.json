@@ -1,0 +1,3466 @@
+[{
+        "name": "1/2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "1,60",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "1,80",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "1,90",
+        "character": ""
+    },
+    {
+        "name": "1' 1/4",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "1' 1/2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "2,50",
+        "character": ""
+    },
+    {
+        "name": "2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "2,70",
+        "character": ""
+    },
+    {
+        "name": "2' 1/2",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "3",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "4",
+        "description": "КТР",
+        "image": "/src/img/krepez/homut.jpg",
+        "price": "4,50",
+        "character": ""
+    },
+    {
+        "name": "М8х 10 х 80мм",
+        "description": "Анкер с г-образным крюком",
+        "image": "/src/img/krepez/ankerL.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "М10 х 12 х 130мм",
+        "description": "Анкер с г-образным крюком",
+        "image": "/src/img/krepez/ankerL.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "М6 х 80",
+        "description": "Набор для крепления унитаза",
+        "image": "/src/img/krepez/nabor-dlja-kreplenija-unitaza.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Заглушка внутренняя",
+        "image": "/src/img/fittings-lat/plug-v.jpg",
+        "price": "2,10",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Заглушка внутренняя",
+        "image": "/src/img/fittings-lat/plug-v.jpg",
+        "price": "2,90",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Заглушка внутренняя",
+        "image": "/src/img/fittings-lat/plug-v.jpg",
+        "price": "4,20",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Заглушка нружняя",
+        "image": "/src/img/fittings-lat/plug-n.jpeg",
+        "price": "2,60",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Заглушка нружняя",
+        "image": "/src/img/fittings-lat/plug-n.jpeg",
+        "price": "3,60",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Заглушка нружняя",
+        "image": "/src/img/fittings-lat/plug-n.jpeg",
+        "price": "4,40",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "2,90",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "5,10",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Ниппель",
+        "image": "/src/img/fittings-lat/nippel.jpg",
+        "price": "8,00",
+        "character": ""
+    },
+    {
+        "name": "1/2 x 3/8",
+        "description": "Ниппель редукционный",
+        "image": "/src/img/fittings-lat/nippel-red.jpg",
+        "price": "2,00",
+        "character": ""
+    },
+    {
+        "name": "3/4 x 1/2",
+        "description": "Ниппель редукционный",
+        "image": "/src/img/fittings-lat/nippel-red.jpg",
+        "price": "4,20",
+        "character": ""
+    },
+    {
+        "name": "1 x 1/2",
+        "description": "Ниппель редукционный",
+        "image": "/src/img/fittings-lat/nippel-red.jpg",
+        "price": "8,40",
+        "character": ""
+    },
+    {
+        "name": "1 x 3/4",
+        "description": "Ниппель редукционный",
+        "image": "/src/img/fittings-lat/nippel-red.jpg",
+        "price": "6,10",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "4,30",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "5,70",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "8,70",
+        "character": ""
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Муфта",
+        "image": "/src/img/fittings-lat/mufta.jpg",
+        "price": "14,50",
+        "character": ""
+    },
+    {
+        "name": "3/4 х 1/2",
+        "description": "Муфта редукционная",
+        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
+        "price": "5,30",
+        "character": ""
+    },
+    {
+        "name": "1 х 1/2",
+        "description": "Муфта редукционная",
+        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
+        "price": "7,20",
+        "character": ""
+    },
+    {
+        "name": "1 х 3/4",
+        "description": "Муфта редукционная",
+        "image": "/src/img/fittings-lat/mufta-redcut.jpg",
+        "price": "7,20",
+        "character": ""
+    },
+    {
+        "name": "3/8 x 1/4",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "2,50",
+        "character": ""
+    },
+    {
+        "name": "1/2 x 1/4",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "1/2 x 3/8",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "3/4 x 1/2",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "3,50",
+        "character": ""
+    },
+    {
+        "name": "1 x 1/2",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "10,00",
+        "character": ""
+    },
+    {
+        "name": "1 x 3/4",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "5,70",
+        "character": ""
+    },
+    {
+        "name": "1' 1/4 x 1",
+        "description": "Футорка",
+        "image": "/src/img/fittings-lat/futrka.jpg",
+        "price": "11,50",
+        "character": ""
+    },
+    {
+        "name": "3/4 x 1/2",
+        "description": "Переход внутренний - наружний",
+        "image": "/src/img/fittings-lat/transition.jpg",
+        "price": "4,40",
+        "character": ""
+    },
+    {
+        "name": "1 x 1/2",
+        "description": "Переход внутренний - наружний",
+        "image": "/src/img/fittings-lat/transition.jpg",
+        "price": "5,70",
+        "character": ""
+    },
+    {
+        "name": "1 x 3/4",
+        "description": "Переход внутренний - наружний",
+        "image": "/src/img/fittings-lat/transition.jpg",
+        "price": "6,30",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Колено внутреннее",
+        "image": "/src/img/fittings-lat/knee-m-m.jpg",
+        "price": "5,90",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Колено внутреннее",
+        "image": "/src/img/fittings-lat/knee-m-m.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Колено внутреннее",
+        "image": "/src/img/fittings-lat/knee-m-m.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Колено внутреннее - наружнее",
+        "image": "/src/img/fittings-lat/knee-f-m.jpg",
+        "price": "7,00",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Колено внутреннее - наружнее",
+        "image": "/src/img/fittings-lat/knee-f-m.jpg",
+        "price": "10,00",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Колено внутреннее - наружнее",
+        "image": "/src/img/fittings-lat/knee-f-m.jpg",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Колено наружнее",
+        "image": "/src/img/fittings-lat/knee-f-f.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Колено наружнее",
+        "image": "/src/img/fittings-lat/knee-f-f.jpg",
+        "price": "9,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Колено наружнее",
+        "image": "/src/img/fittings-lat/knee-f-f.jpg",
+        "price": "12,70",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Тройник внутренний",
+        "image": "/src/img/fittings-lat/wye-v.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Тройник внутренний",
+        "image": "/src/img/fittings-lat/wye-v.jpg",
+        "price": "9,20",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Тройник внутренний",
+        "image": "/src/img/fittings-lat/wye-v.jpg",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Тройник наружний",
+        "image": "/src/img/fittings-lat/wye-n.jpeg",
+        "price": "8,00",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Тройник наружний",
+        "image": "/src/img/fittings-lat/wye-n.jpeg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Тройник наружний",
+        "image": "/src/img/fittings-lat/wye-n.jpeg",
+        "price": "14,90",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "16,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "22,0",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "30,50",
+        "character": ""
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "35,00",
+        "character": ""
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Обратный клапан",
+        "image": "/src/img/fittings-lat/obr-clapan.jpg",
+        "price": "45,00",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Американка внутренняя - наружняя",
+        "image": "/src/img/fittings-lat/amer-f-m.jpeg",
+        "price": "7,25",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Американка внутренняя - наружняя",
+        "image": "/src/img/fittings-lat/amer-f-m.jpeg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Американка внутренняя - наружняя",
+        "image": "/src/img/fittings-lat/amer-f-m.jpeg",
+        "price": "17,50",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Фильтр грубой очистки",
+        "image": "/src/img/fittings-lat/filter.jpg",
+        "price": "10,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Фильтр грубой очистки",
+        "image": "/src/img/fittings-lat/filter.jpg",
+        "price": "14,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Фильтр грубой очистки",
+        "image": "/src/img/fittings-lat/filter.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Муфта обжимная AQ Gebo DN15 (19.7-21.8 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная AQ Gebo DN20 (24.6-27.3 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная AQ Gebo DN20 (24.6-27.3 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Муфта обжимная AQ Gebo DN25 (31.4-34.2 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/4",
+        "description": "Муфта обжимная AQ Gebo DN32 (40.0-42.9 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/2",
+        "description": "Муфта обжимная AQ Gebo DN40 (47.9-51.5 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "2",
+        "description": "Муфта обжимная AQ Gebo DN40 59.7-63.6 мм), наружняя",
+        "image": "/src/img/fittings-lat/Gebo_nar.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1/2",
+        "description": "Муфта обжимная QI Gebo DN15 (19.7-21.8 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная QI Gebo DN20 (24.6-27.3 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "3/4",
+        "description": "Муфта обжимная QI Gebo DN20 (24.6-27.3 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1",
+        "description": "Муфта обжимная QI Gebo DN25 (31.4-34.2 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/4",
+        "description": "Муфта обжимная QI Gebo DN32 (40.0-42.9 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "1 1/2",
+        "description": "Муфта обжимная QI Gebo DN40 (47.9-51.5 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "2 '",
+        "description": "Муфта обжимная QI Gebo DN40 59.7-63.6 мм), внутренняя",
+        "image": "/src/img/fittings-lat/Gebo_vn.jpg",
+        "price": "22,50",
+        "character": ""
+    },
+    {
+        "name": "20см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "7,00",
+        "character": ""
+    },
+    {
+        "name": "30см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "40см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "7,60",
+        "character": ""
+    },
+    {
+        "name": "50см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "60см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "8,80",
+        "character": ""
+    },
+    {
+        "name": "80см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "9,70",
+        "character": ""
+    },
+    {
+        "name": "100см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "10,70",
+        "character": ""
+    },
+    {
+        "name": "120см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "12,70",
+        "character": ""
+    },
+    {
+        "name": "150см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "200см",
+        "description": "Гибкая подводка гайка - гайка Tucai",
+        "image": "/src/img/flexible_eyeliner/flexy-f-f.jpg",
+        "price": "16,50",
+        "character": ""
+    },
+    {
+        "name": "20см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "7,00",
+        "character": ""
+    },
+    {
+        "name": "30см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "7,20",
+        "character": ""
+    },
+    {
+        "name": "40см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "7,60",
+        "character": ""
+    },
+    {
+        "name": "50см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "60см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "8,80",
+        "character": ""
+    },
+    {
+        "name": "80см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "9,70",
+        "character": ""
+    },
+    {
+        "name": "100см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "10,70",
+        "character": ""
+    },
+    {
+        "name": "120см",
+        "description": "Гибкая подводка в-н Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "12,70",
+        "character": ""
+    },
+    {
+        "name": "150см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "200см",
+        "description": "Гибкая подводка гайка - штуцер Tucai",
+        "image": "/src/img/flexible_eyeliner/flexi-m-f.jpg",
+        "price": "16,50",
+        "character": ""
+    },
+    {
+        "name": "40см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "7,60",
+        "character": ""
+    },
+    {
+        "name": "50см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "60см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "8,80",
+        "character": ""
+    },
+    {
+        "name": "80см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "9,70",
+        "character": ""
+    },
+    {
+        "name": "100см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "10,70",
+        "character": ""
+    },
+    {
+        "name": "120см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "12,70",
+        "character": ""
+    },
+    {
+        "name": "150см",
+        "description": "Гибкая подводка гайка - иголка короткая Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-short.png",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "40см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "7,60",
+        "character": ""
+    },
+    {
+        "name": "50см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "60см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "8,80",
+        "character": ""
+    },
+    {
+        "name": "80см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "9,70",
+        "character": ""
+    },
+    {
+        "name": "100см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "10,70",
+        "character": ""
+    },
+    {
+        "name": "120см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "12,70",
+        "character": ""
+    }, {
+        "name": "150см",
+        "description": "Гибкая подводка гайка - иголка длинная Tucai",
+        "image": "/src/img/flexible_eyeliner/needle-long.png",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "KUA8-275",
+        "description": "Смеситель для кухни ",
+        "image": "/src/img/mixes/KUA8-275.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "NZB4-KD-804",
+        "description": "Смеситель для кухни ",
+        "image": "/src/img/mixes/NZB4-KD-804.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "NZB4-KG-804",
+        "description": "Смеситель для кухни ",
+        "image": "/src/img/mixes/NZB4-KG-804.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "NZB4-KG-804",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/D6-404-bathroom.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "D6-404",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/D6-404-bathroom.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "SBB-596",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/SBB-596bathroom.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "SBB-605",
+        "description": "Смеситель для ванной",
+        "image": "/src/img/mixes/SBB-605bathroom.jpg",
+        "price": "0,00"
+    },
+    {
+        "name": "11м*19мм*0,2мм",
+        "description": "ФУМ-лента 'JUMBOTAPE'",
+        "image": "./src/img/other/jumbotipe.jpg",
+        "price": "6,00"
+    },
+    {
+        "name": "13,2 м*12мм*0,075мм",
+        "description": "ФУМ-лента 'UNITAPE'",
+        "image": "./src/img/other/unitape.jpg",
+        "price": "1,50"
+    },
+    {
+        "name": "100г",
+        "description": "Лен сантехнический 'UNIGARN', коса",
+        "image": "./src/img/other/unigard.jpg",
+        "price": "5,90"
+    },
+    {
+        "name": "200г",
+        "description": "Лен сантехнический 'UNIGARN', коса",
+        "image": "./src/img/other/unigard.jpg",
+        "price": "9,20"
+    },
+    {
+        "name": "500г",
+        "description": "Лен сантехнический 'UNIGARN', коса",
+        "image": "./src/img/other/unigard.jpg",
+        "price": "17,50"
+    },
+    {
+        "name": "25г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "./src/img/other/unipak.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "65г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "./src/img/other/unipak.jpg",
+        "price": "7,20"
+    },
+    {
+        "name": "250г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "./src/img/other/unipak.jpg",
+        "price": "14,20"
+    },
+    {
+        "name": "360г",
+        "description": "Паста для уплотнения резьбовых соединений 'UNIPAK'",
+        "image": "./src/img/other/unipak-b.jpg",
+        "price": "15,20"
+    },
+    {
+        "name": "500г",
+        "description": "Паста для уплотнения резьбовых соединений 'MULTIPAK'",
+        "image": "./src/img/other/multipak.jpg",
+        "price": "3,10"
+    },
+    {
+        "name": "250г",
+        "description": "Паста для уплотнения резьбовых соединений 'MULTIPAK'",
+        "image": "./src/img/other/multipak.jpg",
+        "price": "22,00"
+    },
+    {
+        "name": "20 SDR6",
+        "description": "Труба полипропиленовая, серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "2,20"
+    },
+    {
+        "name": "25 SDR6",
+        "description": "Труба полипропиленовая, серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "3,10"
+    },
+    {
+        "name": "32 SDR6",
+        "description": "Труба полипропиленовая, серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "5,90"
+    },
+    {
+        "name": "20 SDR7,4",
+        "description": "Труба полипропиленовая (стекловолокно), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "25 SDR7,4",
+        "description": "Труба полипропиленовая (стекловолокно), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "3,50"
+    },
+    {
+        "name": "32 SDR7,4",
+        "description": "Труба полипропиленовая (стекловолокно), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "6,10"
+    },
+    {
+        "name": "40 SDR7,4",
+        "description": "Труба полипропиленовая (стекловолокно), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "10,00"
+    },
+    {
+        "name": "20 SDR6",
+        "description": "Труба полипропиленовая (аллюминий), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "4,20"
+    },
+    {
+        "name": "25 SDR6",
+        "description": "Труба полипропиленовая (аллюминий), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "5,70"
+    },
+    {
+        "name": "32 SDR6",
+        "description": "Труба полипропиленовая (аллюминий), серая",
+        "image": "/src/img/polypropylene/pipe.jpg",
+        "price": "8,50"
+    },
+    {
+        "name": "20",
+        "description": "Заглушка полипропиленовая, серая",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "0,25"
+    },
+    {
+        "name": "25",
+        "description": "Заглушка полипропиленовая, серая",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "0,35"
+    },
+    {
+        "name": "32",
+        "description": "Заглушка полипропиленовая, серая",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "0,55"
+    },
+    {
+        "name": "40",
+        "description": "Заглушка полипропиленовая, серый",
+        "image": "/src/img/polypropylene/plug.jpeg",
+        "price": "0,85"
+    },
+    {
+        "name": "20 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "0,40"
+    },
+    {
+        "name": "20 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "0,40"
+    },
+    {
+        "name": "25 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "0,60"
+    },
+    {
+        "name": "25 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "0,60"
+    },
+    {
+        "name": "35 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "1,20"
+    },
+    {
+        "name": "32 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "1,20"
+    },
+    {
+        "name": "40 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "1,70"
+    },
+    {
+        "name": "40 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "1,70"
+    },
+    {
+        "name": "50 х 45&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-45.jpg",
+        "price": "3,00"
+    },
+    {
+        "name": "50 х 90&deg;",
+        "description": "Угол полипропиленовый, серый",
+        "image": "/src/img/polypropylene/injection-90.jpg",
+        "price": "3,00"
+    },
+    {
+        "name": "20",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "0,35"
+    },
+    {
+        "name": "25",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "0,50"
+    },
+    {
+        "name": "32",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "0,80"
+    },
+    {
+        "name": "40",
+        "description": "Муфта полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta.jpg",
+        "price": "1,30"
+    },
+    {
+        "name": "20/25",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "0,35"
+    },
+    {
+        "name": "32/20",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "0,65"
+    },
+    {
+        "name": "32/25",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "0,65"
+    },
+    {
+        "name": "40/20",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "40/25",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "40/32",
+        "description": "Муфта редукционная вн.- вн. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-reduction.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "25/20",
+        "description": "Муфта редукционная вн.- нар. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-red2.jpg",
+        "price": "0,35"
+    },
+    {
+        "name": "32/25",
+        "description": "Муфта редукционная вн.- нар. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-red2.jpg",
+        "price": "0,65"
+    },
+    {
+        "name": "40/32",
+        "description": "Муфта редукционная вн.- нар. полипропиленовая, серая",
+        "image": "/src/img/polypropylene/mufta-red2.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "20",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "0,50"
+    },
+    {
+        "name": "25",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "0,80"
+    },
+    {
+        "name": "32",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "1,60"
+    },
+    {
+        "name": "40",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "3,40"
+    },
+    {
+        "name": "50",
+        "description": "Тройник полипропиленовый, серый",
+        "image": "/src/img/polypropylene/trk.jpg",
+        "price": "5,50"
+    },
+    {
+        "name": "25x20x25",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x25.jpg",
+        "price": "0,85"
+    },
+    {
+        "name": "32x20x32",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x25.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "32x25x32",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x25.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "40x20x40",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x25.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "40x25x40",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x25.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "40x32x40",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x25.jpg",
+        "price": "2,90"
+    },
+    {
+        "name": "25x20x20",
+        "description": "Тройник редукционный полипропиленовый, серый",
+        "image": "/src/img/polypropylene/25x20x20.jpg",
+        "price": "0,70"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "3,40"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,50"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "3,80"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "5,20"
+    },
+    {
+        "name": "25x1",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "8,70"
+    },
+    {
+        "name": "32x1/2",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "8,80"
+    },
+    {
+        "name": "32x3/4",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "9,80"
+    },
+    {
+        "name": "32x1",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "8,30"
+    },
+    {
+        "name": "40x1'1/4",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "15,90"
+    },
+    {
+        "name": "50x1'1/2",
+        "description": "Ниппель полипропиленовый, наружняя резьба, серый",
+        "image": "/src/img/polypropylene/nipelPP.jpg",
+        "price": "24,50"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "3,00"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "3,00"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "3,60"
+    },
+    {
+        "name": "32x3/4",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "7,00"
+    },
+    {
+        "name": "32x1",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "40x1' 1/4",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "14,50"
+    },
+    {
+        "name": "50x1' 1/2",
+        "description": "Муфта полипропиленовая, внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/muftaPP.jpg",
+        "price": "22,00"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "5,70"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "5,70"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "8,00"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "8,70"
+    },
+    {
+        "name": "25x1",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "11,00"
+    },
+    {
+        "name": "32x1",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "11,30"
+    },
+    {
+        "name": "40x1' 1/4",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "21,00"
+    },
+    {
+        "name": "50x1' 1/2",
+        "description": "Американка полипропиленовая наружняя резьба, серый",
+        "image": "/src/img/polypropylene/americanka-n.jpg",
+        "price": "29,50"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "5,20"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "5,20"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "7,80"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "7,80"
+    },
+    {
+        "name": "25x1",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "10,50"
+    },
+    {
+        "name": "32x3/4",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "9,50"
+    },
+    {
+        "name": "32x1",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "10,00"
+    },
+    {
+        "name": "40x1' 1/4",
+        "description": "Американка полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/amerikanka-vn.jpg",
+        "price": "19,50"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Муфта с накидной гайкой полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/mufta-vs-g.jpg",
+        "price": "6,50"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Муфта с накидной гайкой полипропиленовая внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/mufta-vs-g.jpg",
+        "price": "8,50"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Колено с накидной гайкой полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-g.jpg",
+        "price": "6,50"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Колено с накидной гайкой полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-g.jpg",
+        "price": "8,50"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Колено полипропиленовое наружняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-n.jpg",
+        "price": "3,20"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Колено полипропиленовое наружняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-n.jpg",
+        "price": "3,20"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Колено полипропиленовое наружняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-n.jpg",
+        "price": "3,80"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Колено полипропиленовое наружняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-n.jpg",
+        "price": "4,90"
+    },
+    {
+        "name": "32x1",
+        "description": "Колено полипропиленовое наружняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-n.jpg",
+        "price": "8,60"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Колено полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-vn.jpg",
+        "price": "2,90"
+    },
+    {
+        "name": "20x3/4",
+        "description": "Колено полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-vn.jpg",
+        "price": "2,70"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Колено полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-vn.jpg",
+        "price": "4,80"
+    }, {
+        "name": "32x3/4",
+        "description": "Колено полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-vn.jpg",
+        "price": "6,50"
+    },
+    {
+        "name": "32x1",
+        "description": "Колено полипропиленовое внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-vn.jpg",
+        "price": "8"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Колено полипропиленовое с креплением наружняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-krep-n.jpg",
+        "price": "3,20"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Колено полипропиленовое с креплением внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-krep.jpg",
+        "price": "2,90"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Настенный комплект полипропиленовый с креплением внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/injection-wall.jpg",
+        "price": "7,10"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Тройник полипропиленовый внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/vuy-vn.jpg",
+        "price": "3,10"
+    },
+    {
+        "name": "25x1/2",
+        "description": "Тройник полипропиленовый внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/vuy-vn.jpg",
+        "price": "4,20"
+    },
+    {
+        "name": "25x3/4",
+        "description": "Тройник полипропиленовый внутренняя резьба, серый",
+        "image": "/src/img/polypropylene/vuy-vn.jpg",
+        "price": "4,30"
+    },
+    {
+        "name": "20x1/2",
+        "description": "Тройник полипропиленовый наружняя резьба, серый",
+        "image": "/src/img/polypropylene/vuy-n.jpg",
+        "price": "3,40"
+    },
+    {
+        "name": "Скважинный насос MAXPUMP miniVINT",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/MAXPUMO-miniVINT.webp",
+        "price": "279,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 370Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 70м",
+        "consumption": "Макс. расход: 1.50 м3/час"
+    },
+    {
+        "name": "Скважинный насос MAXPUMP midiVINT",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/MAXPUMO-miniVINT.webp",
+        "price": "324,30",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 75м",
+        "consumption": "Макс. расход: 1.50 м3/час"
+    },
+    {
+        "name": "Скважинный насос MAXPUMP maxiVINT",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/MAXPUMO-miniVINT.webp",
+        "price": "380,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 750Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 102м",
+        "consumption": "Макс. расход: 1.98 м3/час"
+    },
+    {
+        "name": "Скважинный насос JEMIX 3-QGB-1-25M",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/JEMIX-3-QGB-1-25M.webp",
+        "price": "272,50",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 90м",
+        "consumption": "Макс. расход: 1.90 м3/час"
+    },
+    {
+        "name": "Скважинный насос JEMIX CH-3-2-30",
+        "description": "ЦЕНТРОБЕЖНЫЙ НАСОС",
+        "image": "/src/img/pump/JEMIX-CH-3-2-30.jpg",
+        "price": "372,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 370Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 48м",
+        "consumption": "Макс. расход: 3.10 м3/час"
+    },
+    {
+        "name": "Скважинный насос JEMIX 3-QGB-1-40M",
+        "description": "ЦЕНТРОБЕЖНЫЙ НАСОС",
+        "image": "/src/img/pump/JEMIX-CH-3-2-30.jpg",
+        "price": "302,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 750Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 110м",
+        "consumption": "Макс. расход: 1.90 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO SQIBO 0,37",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/IBO-SQIBO-0,37.webp",
+        "price": "325,70",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 370Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 65м",
+        "consumption": "Макс. расход: 1.80 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO SQIBO 0,55",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/IBO-SQIBO-0,37.webp",
+        "price": "365,70",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 70м",
+        "consumption": "Макс. расход: 2.10 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO SQIBO 0,75",
+        "description": "ВИНТОВОЙ НАСОС",
+        "image": "/src/img/pump/IBO-SQIBO-0,37.webp",
+        "price": "423,60",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 750Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 115м",
+        "consumption": "Макс. расход: 2.40 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO 4SKM 100 INOX",
+        "description": "ВИХРЕВОЙ НАСОС",
+        "image": "/src/img/pump/IBO-SQIBO-0,37.webp",
+        "price": "555,40",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 750Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 60м",
+        "consumption": "Макс. расход: 2.70 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO 3Ti15 кабель 20 метров",
+        "description": "ЦЕНТРОБЕЖНЫЙ НАСОС",
+        "image": "/src/img/pump/IBO-3TI-15.png",
+        "price": "520,50",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 370Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 60м",
+        "consumption": "Макс. расход: 3.00 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO 3Ti20 кабель 20 метров",
+        "description": "ЦЕНТРОБЕЖНЫЙ НАСОС",
+        "image": "/src/img/pump/IBO-3TI-15.png",
+        "price": "651,40",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 82м",
+        "consumption": "Макс. расход: 3.00 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO 3.5 SDM 3/11 кабель 20 метров",
+        "description": "ЦЕНТРОБЕЖНЫЙ НАСОС",
+        "image": "/src/img/pump/IBO-3.5 SDM-3-11.webp",
+        "price": "547,90",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 800Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 63м",
+        "consumption": "Макс. расход: 6.30 м3/час"
+    },
+    {
+        "name": "Скважинный насос IBO 3Ti 20",
+        "description": "ЦЕНТРОБЕЖНЫЙ НАСОС",
+        "image": "/src/img/pump/IBO3Ti20.webp",
+        "price": "593,70",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "Диаметр: 3",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 82м",
+        "consumption": "Макс. расход: 3.00 м3/час"
+    },
+    {
+        "name": "IBO JET 100A TF 24л",
+        "description": "Насосная станция",
+        "image": "/src/img/pump/IBO-JET-100A.webp",
+        "price": "349,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 1100Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "",
+        "consumption": ""
+    },
+    {
+        "name": "MAXPUMP TOPLIFT 1100",
+        "description": "Фекальный насос",
+        "image": "/src/img/pump/MAXPUMPTOPLIFT1100.webp",
+        "price": "205,62",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 1100Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 10м",
+        "consumption": ""
+    },
+    {
+        "name": "IBO MAGNUM 2500",
+        "description": "Фекальный насос",
+        "image": "/src/img/pump/IBOMAGNUM2500.webp",
+        "price": "190,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 250Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 9м",
+        "consumption": "Макс. расход: 8.10 м3/час"
+    },
+    {
+        "name": "IBO MAGNUM 2900",
+        "description": "Фекальный насос",
+        "image": "/src/img/pump/IBOMAGNUM2900.png",
+        "price": "382,30",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 8м",
+        "consumption": "Макс. расход: 18.00 м3/час"
+    },
+    {
+        "name": "Jemix GS 550",
+        "description": "Дренажный насос",
+        "image": "/src/img/pump/JemixGS.png",
+        "price": "133,00",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 550Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 8м",
+        "consumption": "Макс. расход: 10.50 м3/час"
+    },
+    {
+        "name": "Jemix GS 750",
+        "description": "Дренажный насос",
+        "image": "/src/img/pump/JemixGS.png",
+        "price": "150,60",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 750Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 8м",
+        "consumption": "Макс. расход: 13.50 м3/час"
+    },
+    {
+        "name": "IBO CPI 15-15",
+        "description": "Циркуляционный  насос",
+        "image": "/src/img/pump/IBOCPI15-15.webp",
+        "price": "262,20",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 25Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 8м",
+        "consumption": "Макс. расход: 0.45 м3/час"
+    },
+    {
+        "name": "IBO OHI 25-40/180",
+        "description": "Циркуляционный  насос",
+        "image": "/src/img/pump/IBOOHI25-40-180.png",
+        "price": "136,62",
+        "character": "Характеристики",
+        "el": "Напряжение сети: 220~240В",
+        "d": "",
+        "volt": "Потребляемая мощность: 38/53/72Вт",
+        "power": "Частота: 50ГЦ",
+        "height": "Максимальный напор: 3/4/4.5м",
+        "consumption": "Макс. расход: 2.88 м3/час"
+    },
+    {
+        "name": "Радиатор Аллюминевый",
+        "description": "",
+        "image": "/src/img/radiators/radiator.jpg",
+        "price": "0,00",
+        "character": ""
+    },
+    {
+        "name": "Радиатор Аллюминевый",
+        "description": "",
+        "image": "/src/img/radiators/radiator.jpg",
+        "price": "0,00",
+        "character": ""
+    },
+    {
+        "name": "Кран радиаторный угловой",
+        "description": "КТР",
+        "image": "/src/img/radiators/uglovoy.jpg",
+        "price": "0,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash;110х500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "&Oslash;110х1000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "12,00"
+    },
+    {
+        "name": "&Oslash;110х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "23,00"
+    },
+    {
+        "name": "&Oslash;110х3000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-n/pipe.jpg",
+        "price": "35,00"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Заглушка ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/zaglushka.jpg",
+        "price": "2,70"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Муфта ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/union.jpg",
+        "price": "8,90"
+    },
+    {
+        "name": "&Oslash;110х15&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x45.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "&Oslash;110х30&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x45.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "&Oslash;110х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x45.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "&Oslash;110х67&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x67.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "&Oslash;110х87&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/injection110x90.jpg",
+        "price": "7,50"
+    },
+    {
+        "name": "&Oslash;110х110x45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/wue110x45.jpg",
+        "price": "15,50"
+    },
+    {
+        "name": "&Oslash;110х110x87&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/wue110x90.jpg",
+        "price": "15,50"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Обратный клапан ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-n/obr110n.jpg",
+        "price": "69,80"
+    },
+    {
+        "name": "&Oslash;32x250 мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "2,00"
+
+    },
+    {
+        "name": "&Oslash;32х500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/../src/img/sewerage-v/pipe32.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "&Oslash;32х1000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "4,00"
+    },
+    {
+        "name": "&Oslash;32х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "7,00"
+    },
+    {
+        "name": "&Oslash;40х250мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "2,00"
+    },
+    {
+        "name": "&Oslash;40х500 мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "2,50"
+
+    },
+    {
+        "name": "&Oslash;40х1000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/../src/img/sewerage-v/pipe32.jpg",
+        "price": "4,00"
+    },
+    {
+        "name": "&Oslash;40х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "7,00"
+    },
+    {
+        "name": "&Oslash;50х250мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "2,20"
+    },
+    {
+        "name": "&Oslash;50х500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "2,70"
+    },
+    {
+        "name": "&Oslash;50х750мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "4,00"
+    },
+    {
+        "name": "&Oslash;50х1000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "4,40"
+    },
+    {
+        "name": "&Oslash;50х1500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "6,50"
+    },
+    {
+        "name": "&Oslash;50х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "7,40"
+    },
+    {
+        "name": "&Oslash;50х3000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe32.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;110х250мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe1100.jpg",
+        "price": "4,50"
+    },
+    {
+        "name": "&Oslash;110х500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe1100.jpg",
+        "price": "6,50"
+    },
+    {
+        "name": "&Oslash;110х1000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe1100.jpg",
+        "price": "8,80"
+    },
+    {
+        "name": "&Oslash;110х1500мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe1100.jpg",
+        "price": "14,00"
+    },
+    {
+        "name": "&Oslash;110х2000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe1100.jpg",
+        "price": "15,50"
+    },
+    {
+        "name": "&Oslash;110х3000мм",
+        "description": "Труба канализационая ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/pipe1100.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "&Oslash;32",
+        "description": "Заглушка ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/plug32-50.jpg",
+        "price": "0,60"
+    },
+    {
+        "name": "&Oslash;40",
+        "description": "Заглушка ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/plug32-50.jpg",
+        "price": "0,60"
+    },
+    {
+        "name": "&Oslash;50",
+        "description": "Заглушка ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/plug32-50.jpg",
+        "price": "0,60"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Заглушка ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/plug110.jpg",
+        "price": "1,40"
+    },
+    {
+        "name": "&Oslash;32",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/clutch32.jpg",
+        "price": "1,80"
+    },
+    {
+        "name": "&Oslash;40",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta.jpg",
+        "price": "1,80"
+    },
+    {
+        "name": "&Oslash;50",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta.jpg",
+        "price": "2,70"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Муфта надвижная Ostendorf ",
+        "image": "/src/img/sewerage-v/mufta110.jpg",
+        "price": "3,50"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Муфта вставная Ostendorf ",
+        "image": "/src/img/sewerage-v/plug-in-coupling.jpg",
+        "price": "40,00"
+    },
+    {
+        "name": "&Oslash;40x32",
+        "description": "Переход Ostendorf ",
+        "image": "/src/img/sewerage-v/per40x32.jpg",
+        "price": "2,20"
+    },
+    {
+        "name": "&Oslash;50x32",
+        "description": "Переход Ostendorf ",
+        "image": "/src/img/sewerage-v/per50x32.jpg",
+        "price": "2,90"
+    },
+    {
+        "name": "&Oslash;50x40",
+        "description": "Переход Ostendorf ",
+        "image": "/src/img/sewerage-v/per50x40.jpg",
+        "price": "1,90"
+    },
+    {
+        "name": "&Oslash;110x50",
+        "description": "Переход Ostendorf ",
+        "image": "/src/img/sewerage-v/per110x50.jpg",
+        "price": "2,40"
+    },
+    {
+        "name": "&Oslash;110x50",
+        "description": "Переход  короткий Ostendorf ",
+        "image": "/src/img/sewerage-v/per110x50k.jpg",
+        "price": "2,40"
+    },
+    {
+        "name": "&Oslash;32х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion32x45.jpg",
+        "price": "1,70"
+    },
+    {
+        "name": "&Oslash;32х87&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion32x87.jpg",
+        "price": "1,70"
+    },
+    {
+        "name": "&Oslash;40х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x45.jpg",
+        "price": "1,60"
+    },
+    {
+        "name": "&Oslash;40х87&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x87.jpg",
+        "price": "1,60"
+    },
+    {
+        "name": "&Oslash;50х15&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x15.jpeg",
+        "price": "1,10"
+    },
+    {
+        "name": "&Oslash;50х30&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x30.jpg",
+        "price": "1,10"
+    },
+    {
+        "name": "&Oslash;50х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x45.jpg",
+        "price": "1,10"
+    },
+    {
+        "name": "&Oslash;50х67&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x67.jpg",
+        "price": "2,20"
+    },
+    {
+        "name": "&Oslash;50х87&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion50x87.jpg",
+        "price": "1,10"
+    },
+    {
+        "name": "&Oslash;110х15&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion110x15.jpg",
+        "price": "3,50"
+    },
+    {
+        "name": "&Oslash;110х30&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion110x30.jpg",
+        "price": "3,50"
+    },
+    {
+        "name": "&Oslash;110х45&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion110x45.jpg",
+        "price": "4,60"
+    },
+    {
+        "name": "&Oslash;110х87&deg;",
+        "description": "Колено ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/diversion110x87.jpg",
+        "price": "3,50"
+    },
+    {
+        "name": "&Oslash;32х32х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye32-50x45.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "&Oslash;32х32х87&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye32-50x87.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "&Oslash;40х40х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye32-50x45.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "&Oslash;40х40х87&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye32-50x87.jpg",
+        "price": "2,50"
+    },
+    {
+        "name": "&Oslash;50х50х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye32-50x45.jpg",
+        "price": "2,20"
+    },
+    {
+        "name": "&Oslash;50х50х87&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye32-50x87.jpg",
+        "price": "2,20"
+    },
+    {
+        "name": "&Oslash;110х110х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye110x45.jpg",
+        "price": "5,80"
+    },
+    {
+        "name": "&Oslash;110х110х87&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye110x87.jpg",
+        "price": "5,80"
+    },
+    {
+        "name": "&Oslash;110х50х45&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye110-50x45.jpg",
+        "price": "4,20"
+    },
+    {
+        "name": "&Oslash;110х50х87&deg;",
+        "description": "Тройник ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/wye110-50x87.jpg",
+        "price": "4,20"
+    },
+    {
+        "name": "&Oslash;500",
+        "description": "Компенсационный патрубок ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/compensation50.jpg",
+        "price": "3,90"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Компенсационный патрубок ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/compencacion.jpg",
+        "price": "6,80"
+    },
+    {
+        "name": "&Oslash;50",
+        "description": "Обратный клапан ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/obr50.jpg",
+        "price": "53,00"
+    },
+    {
+        "name": "&Oslash;50",
+        "description": "Ревизия ПВХ Ostendorf",
+        "image": "/src/img/sewerage-v/revision50.jpg",
+        "price": "4,50"
+    },
+    {
+        "name": "&Oslash;110",
+        "description": "Ревизия ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/revision110.jpg",
+        "price": "8,70"
+    },
+    {
+        "name": "&Oslash;110x110x110x45&deg;",
+        "description": "Крестовина ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/cross-110-110-110x45.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "&Oslash;110x110x110x87&deg;",
+        "description": "Крестовина ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/cross-110-110-110x87.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "&Oslash;110x50x50x45&deg;",
+        "description": "Крестовина ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/cross110-50-50x45.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "&Oslash;110x50x50x87&deg;",
+        "description": "Крестовина ПВХ Ostendorf ",
+        "image": "/src/img/sewerage-v/cross110-50-50x87.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "&Oslash;110x110x50x87&deg; выход слева",
+        "description": "Крестовина ПВХ",
+        "image": "/src/img/sewerage-v/cross110-110-50x87left.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "&Oslash;110x110x50x87&deg; выход справа",
+        "description": "Крестовина ПВХ",
+        "image": "/src/img/sewerage-v/cross110-110-50x87right.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "ИнкоЭр (И - Клапан плоскй -004)",
+        "description": "Клапан плоский",
+        "image": "/src/img/Shut-off valves/klapan.jpg",
+        "price": "1,70"
+    },
+    {
+        "name": "Инкоэр И - БпрН Р",
+        "description": "Клапан впускной боковой",
+        "image": "/src/img/Shut-off valves/947224.jpg",
+        "price": "7,30"
+    },
+    {
+        "name": "Инкоэр И - НпрНРФ Р",
+        "description": "Клапан впускной нижний",
+        "image": "/src/img/Shut-off valves/947225-800x800.jpg",
+        "price": "7,30"
+    },
+    {
+        "name": "Орио L=220-520 мм С-990",
+        "description": "Гофра для унитаза",
+        "image": "/src/img/Shut-off valves/gofra-orio-c-990-2.jpg",
+        "price": "10,00"
+    },
+    {
+        "name": "Bonomini, 220/570 мм",
+        "description": "Гофра для унитаза",
+        "image": "/src/img/Shut-off valves/504x504-_upl5f517ae539e513.46190574.webp",
+        "price": "21,50"
+    },
+    {
+        "name": "Инкоэр, И - СБ1-А",
+        "description": "Клапан спускной однокнопочный, хром",
+        "image": "/src/img/Shut-off valves/947226.jpg",
+        "price": "12,50"
+    },
+    {
+        "name": "Инкоэр, И - СБа-БпрН-Б-М Р",
+        "description": "Арматура, белый шток, бок.подводка",
+        "image": "/src/img/Shut-off valves/Х9001.jpg",
+        "price": "16,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H/V-2л",
+        "image": "/src/img/tanks/MAXPUMP-H-V-2.webp",
+        "price": "16,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-24л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "56,10"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-50л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "94,90"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-80л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "166,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP H-100л",
+        "image": "/src/img/tanks/MAXPUMP-H-24.png",
+        "price": "236,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP V-50л",
+        "image": "/src/img/tanks/MAXPUMP V.png",
+        "price": "119,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP V-80л",
+        "image": "/src/img/tanks/MAXPUMP V.png",
+        "price": "186,00"
+    },
+    {
+        "name": "Гидроаккумулятор для воды",
+        "description": "MAXPUMP V-100л",
+        "image": "/src/img/tanks/MAXPUMP V.png",
+        "price": "249,00"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 8 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-8.png",
+        "price": "37,50"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 12 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-12.webp",
+        "price": "51,00"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 19 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-19-24.jpg",
+        "price": "56,50"
+    },
+    {
+        "name": "Расширительный бак для отопления",
+        "description": "MAXPUMP 24 л",
+        "image": "/src/img/tanks/MAXIPUMP-HOT-19-24.jpg",
+        "price": "60,50"
+    },
+    {
+        "name": "Мембрана для бака",
+        "description": "MAXPUMP 24л",
+        "image": "/src/img/tanks/membrana.jpg",
+        "price": "14,00"
+    },
+    {
+        "name": "Мембрана для бака",
+        "description": "MAXPUMP 50л",
+        "image": "/src/img/tanks/membrana.jpg",
+        "price": "36,00"
+    },
+    {
+        "name": "Мембрана для бака",
+        "description": "MAXPUMP 80-100л",
+        "image": "/src/img/tanks/membrana80.webp",
+        "price": "72,10"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-lever.jpg",
+        "price": "14,70"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-lever.jpg",
+        "price": "19,50"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-наружний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-lever.jpg",
+        "price": "33,50"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-внутренний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-f-lever.jpg",
+        "price": "14,00"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-внутренний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-f-lever.jpg",
+        "price": "17,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-внутренний, рычаг 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-f-lever.jpg",
+        "price": "31,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-наружний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-knob.jpg",
+        "price": "14,70"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-наружний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-knob.jpg",
+        "price": "18,50"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-наружний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-f-m-knob.jpg",
+        "price": "33,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран полнопроходной внутренний-внутренний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-knob.jpg",
+        "price": "13,90"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран полнопроходной внутренний-внутренний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-knob.jpg",
+        "price": "18,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран полнопроходной внутренний-внутренний, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/ideal-m-m-knob.jpg",
+        "price": "32,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "17,50"
+    },
+    {
+        "name": "3/4",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "27,00"
+    },
+    {
+        "name": "1",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "45,00"
+    },
+    {
+        "name": "1' 1/4",
+        "description": "Кран шаровый полнопроходной, со сгоном, бабочка 'IDEAL' itap",
+        "image": "/src/img/tap/tap-collector.jpg",
+        "price": "5,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран шаровый MINI",
+        "image": "/src/img/tap/mini.jpg",
+        "price": "11,00"
+    },
+    {
+        "name": "1/2",
+        "description": "Кран шаровый MINI",
+        "image": "/src/img/tap/mini-black.jpg",
+        "price": "11,00"
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Труба водопроводная",
+        "image": "/src/img/product/water_pipes.jpg",
+        "price": "",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Труба водопроводная",
+        "image": "/src/img/product/water_pipes.jpg",
+        "price": "",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Труба водопроводная",
+        "image": "/src/img/product/water_pipes.jpg",
+        "price": "",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Заглушка",
+        "image": "/src/img/water/plug.jpg",
+        "price": "2,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "4,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Муфта соеденительная",
+        "image": "/src/img/water/clutch.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 x 25",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 x 32",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 x 32",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 x 40",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "9,80",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 x 40",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "10,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 x 50",
+        "description": "Муфта соеденительная, редукционная",
+        "image": "/src/img/water/clutch_red.jpg",
+        "price": "14,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "4,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50",
+        "description": "Колено соединительное",
+        "image": "/src/img/water/knee.jpg",
+        "price": "17,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "4,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "6,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40",
+        "description": "Тройник соеденительный",
+        "image": "/src/img/water/tee.jpg",
+        "price": "14,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 25 х 20",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 20 х 25",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 20 х 32",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 25 х 32",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "8,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 25 х 40",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "12,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 32 х 40",
+        "description": "Тройник соеденительный, редукционный",
+        "image": "/src/img/water/tree_red.jpg",
+        "price": "13,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "2,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "3,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/4'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "8,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "9,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1 1/2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "16,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 2'",
+        "description": "Ниппель соеденительный, наружняя резьбой",
+        "image": "/src/img/water/nipple.jpg",
+        "price": "25,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "2,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "3,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "3,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "8,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/4'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "8,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1 1/2'",
+        "description": "Муфта соеденительная, внутренняя резьба",
+        "image": "/src/img/water/clutch_rez.jpg",
+        "price": "16,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Колено с креплением, внутренняя резьба",
+        "image": "/src/img/water/corner_krep.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Колено с креплением, внутренняя резьба",
+        "image": "/src/img/water/corner_krep.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "2,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "9,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1 1/4'",
+        "description": "Колено, наружняя резьба",
+        "image": "/src/img/water/corner_nar.jpg",
+        "price": "2,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "2,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "3,70",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Колено, внутренняя резьба",
+        "image": "/src/img/water/corner_vn.jpg",
+        "price": "9,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "4,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "6,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Тройник, наружняя резьба",
+        "image": "/src/img/water/tree_nar.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "4,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1/2'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 1'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "5,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1'",
+        "description": "Тройник, внутренняя резьба",
+        "image": "/src/img/water/tree_vn.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 20 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 25 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 32 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "5,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "6,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 40 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "7,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "8,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 50 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "9,90",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 63 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "11,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 75 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "10,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 75 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "12,30",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 90 х 3/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "12,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 90 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "14,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 90 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "14,20",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 110 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "17,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 110 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "17,50",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 125 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "24,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 125 х 1 1/4'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "24,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 125 х 1 1/2'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "24,00",
+        "character": ""
+    },
+    {
+        "name": "&Oslash; 160 х 1'",
+        "description": "Хомут для врезки, внутренняя резьба",
+        "image": "/src/img/water/clamp.jpg",
+        "price": "63,50",
+        "character": ""
+    },
+    {
+        "name": "Italtecnica РМ/5G без шкалы",
+        "description": "Реле давления",
+        "image": "/src/img/well/italtecnica.jpg",
+        "price": "35,00"
+    },
+    {
+        "name": "IBO PC 9",
+        "description": "Реле давления",
+        "image": "/src/img/well/IBO-PC9.webp",
+        "price": "21,90"
+    },
+    {
+        "name": "MAXPUMP PS-05A",
+        "description": "Блок автоматики",
+        "image": "/src/img/well/MAXIPUMP.jpg",
+        "price": "23,00"
+    },
+    {
+        "name": "Italtecnica PM5/3W",
+        "description": "Блок автоматики",
+        "image": "/src/img/well/italtecnicaPM5-3W.jpg",
+        "price": "46,00"
+    },
+    {
+        "name": "ОГС 113 — 127/25",
+        "description": " Оголовок",
+        "image": "/src/img/well/OGS.png",
+        "price": "64,70"
+    },
+    {
+        "name": "ОГС 113 — 127/32",
+        "description": "Оголовок",
+        "image": "/src/img/well/OGS.png",
+        "price": "64,70"
+    },
+    {
+        "name": "ОСП 90 — 110/25",
+        "description": "Оголовок",
+        "image": "/src/img/well/OCP90.jpg",
+        "price": "112,70"
+    },
+    {
+        "name": "ОСП 90 — 110/32",
+        "description": "Оголовок",
+        "image": "/src/img/well/OCP90.jpg",
+        "price": "112,70"
+    },
+    {
+        "name": "MAXPUMP 60см",
+        "description": "Гибкая подводка",
+        "image": "/src/img/well/flex.webp",
+        "price": "20,70"
+    },
+    {
+        "name": "IBO 1'",
+        "description": "Адаптер скважинный",
+        "image": "/src/img/well/adapter.jpg",
+        "price": "118,45"
+    },
+    {
+        "name": "3 мм",
+        "description": "Трос из нержавеющей стали",
+        "image": "/src/img/well/tros.jpg",
+        "price": "1,75"
+    },
+    {
+        "name": "IBO ПВХ 1' (25мм)",
+        "description": "Шланг рукав",
+        "image": "/src/img/well/shlang.webp",
+        "price": "1,61"
+    },
+    {
+        "name": "IBO ПВХ 1,25' (32мм)",
+        "description": "Шланг рукав",
+        "image": "/src/img/well/shlang.webp",
+        "price": "1,80"
+    },
+    {
+        "name": "IBO ПВХ 2' (50мм)",
+        "description": "Шланг рукав",
+        "image": "/src/img/well/shlang.webp",
+        "price": "3,36"
+    }
+
+]
