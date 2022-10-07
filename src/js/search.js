@@ -19,7 +19,7 @@ const search = () => {
                                 <div class="product__card_info">
                                     <p class="product__info_title">${description} </p>
                                     <p class="product__card_description">${name} </p>
-                                    <p class="product__card_price">${price} руб.</p>
+                                    <p class="product__card_price"> руб.</p>
                                 </div>
                                 <div class="character">
                                 <p class="character_title">${character}</p>
@@ -50,7 +50,7 @@ const search = () => {
                                 <div class="product__card_info">
                                     <p class="product__info_title">${description} </p>
                                     <p class="product__card_description">${name} </p>
-                                    <p class="product__card_price">${price} руб.</p>
+                                    <p class="product__card_price"> руб.</p>
                                 </div>
                 `
                     cardsInfo.append(card)
