@@ -3,6 +3,7 @@ const cardsInfo = document.querySelector('.products__card_info');
 
 
 const renderItems = (data) => {
+    localStorage.removeItem('prod');
     if (localStorage.getItem('products') == 'pump.json') {
         data.forEach(({ name, description, price, image, character, el, power, volt, d, height, consumption }) => {
             const card = document.createElement('div');
