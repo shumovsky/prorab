@@ -775,6 +775,7 @@ h3 {
 
 .card_img {
   flex-basis: 100%;
+  padding: 1rem;
 }
 
 .card__info {
