@@ -1,70 +1,45 @@
-"use strict";
+Form;
 
-document.addEventListener('DOMContentLoaded', function() {
-    const form = document.getElementById('form');
-    form.addEventListener('submit', formSend);
+const form = () => {
+  const forms = document.querySelectorAll('form');
+  console.log(forms);
+  const message = {
+    loading: 'Загрузка',
+    success: 'Успешно',
+    failure: 'Ошибка',
+  };
 
+  forms.forEach((item) => {
+    postData(item);
+  });
 
-    async function formSend(e) {
-        e.preventDefault();
+  function postData(form) {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
 
-        let error = formValidate(form);
+      const statusMessage = document.createElement('div');
+      statusMessage.textContent = message.loading;
+      form.append(statusMessage);
 
-        let formData = new FormData(form);
+      const recquest = new XMLHttpRequest();
+      recquest.open('POST', 'mail.php');
 
-        if (error === 0) {
-            form.parentElement.classList.add('_sending');
-            let response = await fetch('../sendmail.php', {
-                method: 'POST',
-                body: formData
-            });
-            if (response.ok) {
-                let result = await response.json();
-                alert(result.message);
-                form.reset();
-                form.parentElement.classList.remove('_sending');
-            } else {
+      recquest.setRequestHeader('Contetn-type', 'multipart/form-data');
+      const formData = new FormData(form);
 
-            }
+      recquest.send(formData);
+
+      recquest.addEventListener('load', () => {
+        if (recquest.status == 200) {
+          console.log(recquest.response);
+          statusMessage.textContent = message.success;
+          form.reset();
         } else {
-            alert('Заполните все поля');
-            form.parentElement.classList.remove('_sending');
+          statusMessage.textContent = message.failure;
         }
-    }
+      });
+    });
+  }
+};
 
-    function formValidate(form) {
-        let error = 0;
-        let formReq = document.querySelectorAll('._req');
-
-        for (let index = 0; index < formReq.length; index++) {
-            const input = formReq[index];
-
-            if (input.classList.contains('_email')) {
-                if (emailTest(input)) {
-                    formAddError(input);
-                    error++;
-                }
-            } else {
-                if (input.value === '') {
-                    formAddError(input);
-                    error++
-                }
-            }
-        }
-        return error;
-    }
-
-    function formAddError(input) {
-        input.parentElement.classList.add('_error');
-        input.classList.add('_error');
-    }
-
-    function formRemoveError(input) {
-        input.parentElement.classList.remove('_error');
-        input.classList.remove('_error');
-    }
-
-    function emailTest(input) {
-        return !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,8})+$/.test(input.value);
-    }
-});
+form();

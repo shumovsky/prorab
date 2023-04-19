@@ -42,15 +42,15 @@ fetch(`./db/products.json`)
   });
 
 $('#sendMail').on('click', function () {
-  let name = $('#name').val();
-  let phone = $('#phone').val();
-  let email = $('#email').val();
-  let message = $('#textarea').val();
+  var name = $('#name').val();
+  var phone = $('#phone').val();
+  var email = $('#email').val();
+  var message = $('#textarea').val();
 
   $.ajax({
     url: 'src/ajax/mail.php',
     type: 'POST',
-    cache: 'false',
+    cache: false,
     data: {
       name: name,
       phone: phone,
