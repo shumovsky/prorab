@@ -1,4 +1,4 @@
-Form;
+// Form;
 
 const form = () => {
   const forms = document.querySelectorAll('form');
