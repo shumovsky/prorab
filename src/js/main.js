@@ -40,34 +40,3 @@ fetch(`./db/products.json`)
   .catch((error) => {
     console.log(error);
   });
-
-$('#sendMail').on('click', function () {
-  var name = $('#name').val();
-  var phone = $('#phone').val();
-  var email = $('#email').val();
-  var message = $('#textarea').val();
-
-  $.ajax({
-    url: 'src/ajax/mail.php',
-    type: 'POST',
-    cache: false,
-    data: {
-      name: name,
-      phone: phone,
-      email: email,
-      message: message,
-    },
-    dataType: 'html',
-    beforeSend: function () {
-      $('#sendMail').prop('disabled', true);
-    },
-    saccess: function (data) {
-      if (!data) {
-        alert('Произошла ошибка, данные неотправлены');
-      } else {
-        $('#form').trigger('reset');
-      }
-      $('#sendMail').prop('disabled', false);
-    },
-  });
-});
