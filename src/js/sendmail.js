@@ -1,7 +1,7 @@
 // Form;
 
 const form = () => {
-  const forms = document.querySelectorAll('form');
+  const forms = document.querySelector('#form');
   console.log(forms);
   const message = {
     loading: 'Загрузка',
