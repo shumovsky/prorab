@@ -27,6 +27,15 @@
     <script src="./src/js/loader.js" defer></script>
     <title>Мгазин сантехники</title>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RNVRMNS8VP"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-RNVRMNS8VP');
+</script>
 
 <body>
     <header class="header">
@@ -161,7 +170,6 @@
                 <form id="form" action="#" class="contact__us_form">
                     <input type="text" name="Имя" id="name" placeholder="Имя*" class="form_input _req">
                     <input type="text" id="phone" name="phone" placeholder="Телефон*" class="form_input _req">
-                    <input type="text" id="email" name="email" placeholder="email*" class=" form_input _req _email">
                     <textarea class="contact__us_text" id="textarea" name="textarea" cols="30" rows="10"
                         placeholder="Ваше сообщение"></textarea>
                     <button id="sendMail" class="footer__button button">Отправить</button>
@@ -184,29 +192,7 @@
                     </li>
                 </ul>
             </div>
-            <form action="letter.php" method="post" id="contact" enctype="multipart/form-data">
 
-                <label for="name">Имя:</label>
-                <input type="text" name="name" id="name" placeholder="Введите имя" required>
-
-                <label for="nomer">Телефон:</label>
-                <input type="text" name="nomer" id="nomer" placeholder="Ваш телефон" required>
-
-                <label for="email">Email:</label>
-                <input type="text" name="email" id="email" placeholder="Ваш e-mail" required>
-
-                <label for="body">Сообщение:</label>
-                <textarea name="body" id="body" placeholder="Наберите сообщение" required></textarea>
-
-                <label for='userfile[]'>Выберите файл:</label>
-                <input type="file" name="userfile[]" id="userfile" multiple>
-
-                <label for="check"><input type="checkbox" id="check">...</label>
-
-                <input type="hidden" name="validac" class="validac" value="validac_disabled">
-                <input id="submit" type="submit" name="submit" value="Отправить" disabled>
-
-            </form>
         </div>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@latest/lib/bundle.min.js"></script>
