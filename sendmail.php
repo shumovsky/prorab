@@ -31,18 +31,4 @@ if ($mail->send()) {
   echo 'Ошибка: ' . $mail->ErrorInfo;
 }
 
-
-
-$to = "d.shumovsky@bk.ru"; /* Адрес, куда отправляем письма*/
-$subject = "Письмо с обратной связи"; /*Тема письма*/
-$headers = "MIME-Version: 1.0\r\n";
-$headers .= "Content-type: text/html; charset=utf-8\r\n";
-$headers .= "From: <test@mail.ru>\r\n";/*ОТ КОГО*/
-
-/*ВО ВНУТРЬ ПЕРЕМЕННОЙ $message ЗАПИСЫВАЕМ ДАННЫЕ ИЗ ПОЛЕЙ */
-$message .= "Имя пользователя: ".$name."\n";
-$message .= "Населенный пункт: ".$city."\n";
-$message .= "Телефон: ".$phone."\n";
-
-mail ($to, $subject, $message, $headers)
 ?>

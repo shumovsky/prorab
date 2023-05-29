@@ -11,17 +11,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let formData = new FormData(form);
 
-    if (error === 0) {
-      let response = await fetch('sendmail.php', {
-        method: 'POST',
-        body: formData,
-      });
-      if (response.ok) {
-        let result = await response.json();
-        form.reset();
-      } else {
-        alert('Ошибка');
-      }
+    let response = await fetch('sendmail.php', {
+      method: 'POST',
+      body: formData,
+    });
+    if (response.ok) {
+      let result = await response.json();
+      form.reset();
+    } else {
+      alert('Ошибка');
     }
   }
 
