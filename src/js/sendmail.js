@@ -1,94 +1,50 @@
-'use strict';
+const forms = document.querySelectorAll('form');
+const message = {
+  loading: 'Загрузка',
+  success: 'Спасибо! Скоро мы с вами свяжемся',
+  failure: 'Что-то пошло не так...',
+};
 
-document.addEventListener('DOMContentLoaded', () => {
-  const form = document.getElementById('form');
-  form.addEventListener('submit', formSend);
-
-  async function formSend(e) {
-    e.preventDefault();
-
-    let error = formValidatre(form);
-
-    let formData = new FormData(form);
-
-    let response = await fetch('sendmail.php', {
-      method: 'POST',
-      body: formData,
-    });
-    if (response.ok) {
-      let result = await response.json();
-      form.reset();
-    } else {
-      alert('Ошибка');
-    }
-  }
-
-  function formValidatre(form) {
-    let error = 0;
-    let formReq = document.querySelectorAll('._req');
-
-    for (let index = 0; index < formReq.length; index++) {
-      const input = formReq[index];
-      formRemoveError(input);
-
-      if (input.classList.contains('_email')) {
-        if (emailTest(input)) {
-          formAddError(input);
-          error++;
-        }
-      }
-    }
-  }
-
-  function formAddError(input) {
-    input.parentElement.classList.add('_error');
-    input.classList.add('_error');
-  }
-
-  function formRemoveError(input) {
-    input.parentElement.classList.remove('_error');
-    input.classList.remove('_error');
-  }
-
-  function emailTest(input) {
-    return !/^\w+([\.-]?\w+)*@\w+([\.-]?\w)*(\.\w{2,8})+$/.test(input.value);
-  }
+forms.forEach((item) => {
+  postData(item);
 });
 
-// const form = () => {
-//   const forms = document.querySelector('form');
+function postData(form) {
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
 
-//   const message = {
-//     loading: 'Загрузка',
-//     success: 'Успешно',
-//     failure: 'Ошибка',
-//   };
+    let statusMessage = document.createElement('img');
+    statusMessage.src = message.loading;
+    statusMessage.style.cssText = `
+            display: block;
+            margin: 0 auto;
+        `;
+    form.insertAdjacentElement('afterend', statusMessage);
 
-//   forms.addEventListener('submit', (e) => {
-//     e.preventDefault();
+    const formData = new FormData(form);
 
-//     const statusMessage = document.createElement('div');
-//     statusMessage.textContent = message.loading;
-//     forms.append(statusMessage);
+    const object = {};
+    formData.forEach(function (value, key) {
+      object[key] = value;
+    });
 
-//     const recquest = new XMLHttpRequest();
-//     recquest.open('POST', 'mail.php');
-
-//     recquest.setRequestHeader('Contetn-type', 'multipart/form-data');
-//     const formData = new FormData(forms);
-
-//     recquest.send(formData);
-
-//     recquest.addEventListener('load', () => {
-//       if (recquest.status == 200) {
-//         console.log(recquest.response);
-//         statusMessage.textContent = message.success;
-//         forms.reset();
-//       } else {
-//         statusMessage.textContent = message.failure;
-//       }
-//     });
-//   });
-// };
-
-// form();
+    fetch('sendmail.php', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(object),
+    })
+      .then((data) => {
+        console.log(data);
+        showThanksModal(message.success);
+        statusMessage.remove();
+      })
+      .catch(() => {
+        showThanksModal(message.failure);
+      })
+      .finally(() => {
+        form.reset();
+      });
+  });
+}
