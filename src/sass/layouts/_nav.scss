@@ -1,8 +1,10 @@
 .header__nav {
-    flex-basis: 52%;
+    flex-basis: 59%;
+
     @include media-laptop {
         flex-basis: 30%;
     }
+
     @include media-tablet {
         width: 100%;
         text-align: center;
@@ -17,6 +19,7 @@
         -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2) inset;
         box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2) inset;
     }
+
     @include media-laptop-landscape {
         flex-basis: 25%;
         box-shadow: none;
@@ -37,17 +40,21 @@
     justify-content: space-between;
     @include font(2.6rem);
     padding: 0;
+
     a {
         color: $color-link;
+
         &:hover {
             color: $color-link-active;
             @extend %transition;
         }
     }
+
     @include media-laptop {
         flex-direction: column;
         padding: 3rem 5rem 3rem 3rem;
     }
+
     @include media-laptop-landscape {
         padding: 1rem 0;
     }
@@ -57,6 +64,7 @@
     @include media-tablet {
         @include font(3rem, 5rem)
     }
+
     @include media-laptop-landscape {
         padding: .7rem 0;
     }

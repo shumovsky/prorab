@@ -2,6 +2,7 @@
     display: none;
     cursor: pointer;
     z-index: 10;
+
     @include media-tablet {
         display: block;
     }
@@ -11,10 +12,12 @@
     width: 50px;
     height: 5px;
     display: block;
+    border-radius: 3px;
     background: $color-link;
     -webkit-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+
     &:nth-child(2) {
         margin: 8px auto;
     }

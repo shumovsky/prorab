@@ -1,10 +1,13 @@
 .header {
     background: $color-background;
+    padding: 3rem 0;
+
     @include media-laptop {
         position: sticky;
         top: 0;
         z-index: 15;
     }
+
     // @include media-laptop {
     //     position: relative;
     // }
@@ -14,6 +17,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
     @include media-laptop {
         flex-wrap: wrap;
         padding-bottom: 2rem;
@@ -25,8 +29,9 @@
 }
 
 .logo {
-    flex-basis: 15%;
+    flex-basis: 12%;
     padding: 15px 0;
+
     @include media-laptop {
         flex-basis: 20%;
     }
@@ -34,7 +39,7 @@
 
 .header__logo {
     img {
-        width: 100%
+        width: 70%;
     }
 }
 
@@ -48,19 +53,24 @@
     display: none;
     color: #2776af;
     align-items: center;
+    font-weight: 700;
+
     @include media-laptop {
         display: flex;
-        font-size: 3.2rem;
+        font-size: 3rem;
         flex-basis: 50%;
+
         img {
             width: 4rem;
             margin-right: 1.5rem;
         }
     }
+
     @include media-mobile {
         display: flex;
         font-size: 1.8rem;
         flex-basis: 60%;
+
         img {
             width: 3rem;
             margin-right: 1rem;

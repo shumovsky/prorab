@@ -2,7 +2,8 @@
     max-width: $content-width;
     margin: 0 auto;
     padding: 0 16px;
-    @include media-tablet {
+
+    @include media-laptop {
         padding: 0 25px;
     }
 }

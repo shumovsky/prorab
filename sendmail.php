@@ -17,7 +17,7 @@ $mail->SMTPSecure = 'ssl';         // шифрование ssl
 $mail->Port   = 465;               // порт подключения
  
 $mail->setFrom('d.shumovsky@bk.ru', 'Иван Иванов');    // от кого
-$mail->addAddress('test@ya.ru', 'Вася Петров'); // кому
+$mail->addAddress('d.shumovsky@bk.ru', 'Вася Петров'); // кому
  
 $mail->Subject = 'Тест';
 $mail->msgHTML("<html><body>

@@ -22,21 +22,21 @@
     {
         "name": "1/2",
         "description": "Заглушка нружняя",
-        "image": "/src/img/fittings-lat/plug-n.jpeg",
+        "image": "/src/img/fittings-lat/plug-n.jpg",
         "price": "2,60",
         "character": ""
     },
     {
         "name": "3/4",
         "description": "Заглушка нружняя",
-        "image": "/src/img/fittings-lat/plug-n.jpeg",
+        "image": "/src/img/fittings-lat/plug-n.jpg",
         "price": "3,60",
         "character": ""
     },
     {
         "name": "1",
         "description": "Заглушка нружняя",
-        "image": "/src/img/fittings-lat/plug-n.jpeg",
+        "image": "/src/img/fittings-lat/plug-n.jpg",
         "price": "4,40",
         "character": ""
     },
@@ -295,21 +295,21 @@
     {
         "name": "1/2",
         "description": "Тройник наружний",
-        "image": "/src/img/fittings-lat/wye-n.jpeg",
+        "image": "/src/img/fittings-lat/wye-n.jpg",
         "price": "8,00",
         "character": ""
     },
     {
         "name": "3/4",
         "description": "Тройник наружний",
-        "image": "/src/img/fittings-lat/wye-n.jpeg",
+        "image": "/src/img/fittings-lat/wye-n.jpg",
         "price": "11,00",
         "character": ""
     },
     {
         "name": "1",
         "description": "Тройник наружний",
-        "image": "/src/img/fittings-lat/wye-n.jpeg",
+        "image": "/src/img/fittings-lat/wye-n.jpg",
         "price": "14,90",
         "character": ""
     },
@@ -351,21 +351,21 @@
     {
         "name": "1/2",
         "description": "Американка внутренняя - наружняя",
-        "image": "/src/img/fittings-lat/amer-f-m.jpeg",
+        "image": "/src/img/fittings-lat/amer-f-m.jpg",
         "price": "7,25",
         "character": ""
     },
     {
         "name": "3/4",
         "description": "Американка внутренняя - наружняя",
-        "image": "/src/img/fittings-lat/amer-f-m.jpeg",
+        "image": "/src/img/fittings-lat/amer-f-m.jpg",
         "price": "11,00",
         "character": ""
     },
     {
         "name": "1",
         "description": "Американка внутренняя - наружняя",
-        "image": "/src/img/fittings-lat/amer-f-m.jpeg",
+        "image": "/src/img/fittings-lat/amer-f-m.jpg",
         "price": "17,50",
         "character": ""
     },
